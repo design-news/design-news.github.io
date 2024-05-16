@@ -3,15 +3,13 @@ title: "10가지 질문 Rebecca Goss와 함께 - 존 루이스에서 UX, 서비�
 description: ""
 coverImage: "/assets/img/2024-05-15-10questionswithRebeccaGossUXServiceDesignLeadatJohnLewis_0.png"
 date: 2024-05-15 12:45
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-15-10questionswithRebeccaGossUXServiceDesignLeadatJohnLewis_0.png
 tag: Tech
 originalTitle: "10 questions with… Rebecca Goss — UX , Service Design Lead at John Lewis"
 link: "https://medium.com/john-lewis-design/10-questions-with-rebecca-goss-ux-service-design-lead-at-john-lewis-7ab56dee2b11"
 ---
 
-
-```markdown
 ![Image](/assets/img/2024-05-15-10questionswithRebeccaGossUXServiceDesignLeadatJohnLewis_0.png)
 
 ### 1. 저를 소개해주세요. 담당 역할을 알려주세요. 그리고 제가 하는 일을 '초보자용'으로 간략히 설명해주세요.
@@ -19,9 +17,6 @@ link: "https://medium.com/john-lewis-design/10-questions-with-rebecca-goss-ux-se
 저는 존 루이스(John Lewis)의 경험 및 서비스 디자인 리드인데요, 제 역할은 OmniChannel 팀 내에서 UX, 서비스 디자이너 및 UX 작가를 이끌고 비즈니스 내에서 사용자 중심성을 증진시키는 것입니다. 고객과 협력사를 위해 삶을 더 쉽게 만들면, 수익은 따라올 거라고 생각해요!
 
 ### 2. 지금까지의 경로를 통해 이 직무로 오게 된 과정은 어땠나요?
-```
-
-
 
 나는 5년 동안 파트너십에서 일했고 시니어 UX 디자이너로 합류했으며, 팀을 이끌게 되어 매우 자랑스러운 일을 할 수 있었습니다. 이전에는 BT의 UX 디자이너로 일했으며, Rapha의 웹 책임자였습니다. 제 경력 동안 여러 팀을 관리해 왔는데, 이 일에 대해 정말 즐겁게 생각하고 있습니다. 대학에서 사진을 전공했지만, 금세 부자 요리사가 될 운명은 아니라는 것을 깨달았습니다. 제가 늘 개인 뷰 파티를 가지고 싶어했는데 좋은 기회를 놓친 것이 안타까워요.
 
@@ -31,8 +26,6 @@ link: "https://medium.com/john-lewis-design/10-questions-with-rebecca-goss-ux-se
 
 ![이미지](/assets/img/2024-05-15-10questionswithRebeccaGossUXServiceDesignLeadatJohnLewis_1.png)
 
-
-
 ## 4. 디자인에 대한 당신의 접근 방식을 3가지 단어로 설명해주세요.
 
 신중함, 실용적이며 솔직함
@@ -40,8 +33,6 @@ link: "https://medium.com/john-lewis-design/10-questions-with-rebecca-goss-ux-se
 ## 5. 존 루이스의 경험 디자인 팀에서 가장 즐기는 점은 무엇인가요?
 
 수년 동안 달성해온 팀과 그들이 이룬 것들에 대해 자부심을 느낍니다. 모두가 번성할 수 있는 적절한 환경을 조성하기 위해 노력하는 것을 즐깁니다. 때로는 가장 간단한 변화가 가장 큰 영향을 미칠 수 있으며, 팀이 제약을 장점으로 삼는 것을 볼 때 정말 좋습니다.
-
-
 
 ## 6. 이 역할에서 가장 큰 도전은 무엇이었나요?
 
@@ -51,8 +42,6 @@ link: "https://medium.com/john-lewis-design/10-questions-with-rebecca-goss-ux-se
 
 Dieter Rams와 함께 Braun에서 일하는 것, 그것은 꿈 속의 일이죠. 또한 GDS에서 일해보고 싶었습니다. 그들이 갖고 있는 원칙, 모든 사람에게 쉽고 이용하기 편한 서비스를 제공하는 것은 저에게 매우 공감되는 가치입니다.
 
-
-
 ## 8. 영감을 찾는 곳은 어디인가요?
 
 가장 예상치 못한 곳에서 영감을 발견하는 일이 항상 놀랍습니다. 주변에서 일어나는 일에 주의를 기욯하며, 마늘 갈아 넣는 그릇에서부터 계산대까지 잘 고려된 것을 발견했을 때 항상 기뻐합니다. 또한, 은행에서 돈을 인출하는 것처럼 간단한 일인데도 불필요하게 어려울 때나 의사 예약을 하려면 온라인 양식을 작성해야 하는 것이 불편할 때 속상해집니다.
@@ -60,8 +49,6 @@ Dieter Rams와 함께 Braun에서 일하는 것, 그것은 꿈 속의 일이죠.
 <img src="/assets/img/2024-05-15-10questionswithRebeccaGossUXServiceDesignLeadatJohnLewis_2.png" />
 
 ## 9. 업무에서 벗어나는 방법은 무엇인가요?
-
-
 
 일하는 동안이나 휴가 중에 메시지나 이메일을 확인하는 게 조금 서툴러요. 왜 이렇게 하는지 정확히 모르겠어요—아마 습관 때문일 거예요. 저는 프로젝트나 조사하거나 배우는 게 좋아하는 사람이에요. 최근에는 뒷마당에서 우프트 BBQ 스모커를 만들기 위해 용접을 하고 있어요. 프로젝트를 할 때의 즐거움을 음식 사랑과 결합시켰죠. 그래서, 용접기를 빌리고 싶다면 알아둬요. 곧 완성되어서 램과 갈비를 천천히 조리할 수 있게 될 것을 고대하고 있어요. 비건이라면 죄송해요.
 
