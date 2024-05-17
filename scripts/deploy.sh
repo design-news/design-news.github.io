@@ -20,7 +20,7 @@ cd out
 git clone -b gh-pages https://github.com/design-news/design-news.github.io/
 cp -rf design-news.github.io/.git ./.git
 git config user.name "design-news"
-git config user.email "13akstjq.blog24@gmail.com"
+git config user.email "13akstjq.blog27@gmail.com"
 rm -rf design-news.github.io
 
 touch .nojekyll
