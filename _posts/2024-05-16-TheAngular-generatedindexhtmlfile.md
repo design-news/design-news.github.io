@@ -3,13 +3,12 @@ title: "앵귤러에서 생성된 indexhtml 파일"
 description: ""
 coverImage: "/assets/img/2024-05-16-TheAngular-generatedindexhtmlfile_0.png"
 date: 2024-05-16 23:30
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-16-TheAngular-generatedindexhtmlfile_0.png
 tag: Tech
 originalTitle: "The Angular-generated index.html file"
 link: "https://medium.com/ngconf/the-angular-generated-index-html-file-0918248c082a"
 ---
-
 
 ## Angular 프레임워크에서 생성된 초기 HTML 마크업을 줄 단위로 검토
 
@@ -21,7 +20,7 @@ link: "https://medium.com/ngconf/the-angular-generated-index-html-file-0918248c0
 
 <div class="content-ad"></div>
 
-```
+
 <img src="/assets/img/2024-05-16-TheAngular-generatedindexhtmlfile_1.png" />
 
 이 컴퓨터 과학자는 HTML 외에도 Web이 오늘날 우리가 알고 있는 Web에 필수적인 기술로 자리 잡은 다른 주요 기술들, 즉 URI, HTTP 응용 계층 프로토콜, 첫 번째 웹 서버, 그리고 첫 번째 웹 브라우저를 개발했습니다.
@@ -29,11 +28,12 @@ link: "https://medium.com/ngconf/the-angular-generated-index-html-file-0918248c0
 지금은 Angular CLI와 같이 강력한 도구를 사용하여 웹 애플리케이션 프레임을 만들고, 초기 HTML 코드부터 관련된 멀티미디어 자원까지 해석해 사용자에게 컨텐츠를 표시하거나 설명할 수 있는 최신 브라우저가 있습니다.
 
 # 시작 시퀀스의 간략한 개요
-```
+
 
 <div class="content-ad"></div>
 
 Angular 애플리케이션의 전형적인 로딩 순서는 다음 단계를 따릅니다 - 프로세스를 설명하기 위해 과도하게 단순화했습니다:
+
 - 브라우저가 웹 서버에 웹 콘텐츠를 가져오기 위해 초기 요청을 보냅니다.
 - 서버가 HTML 파일로 응답합니다.
 - 이 HTML 파일을 다운로드하고 구문 분석한 후, 브라우저는 Angular에서 선언된 로직을 실행하고 사용자의 이동을 활성화하는 데 필요한 폰트, 이미지 및 JavaScript 코드와 같은 추가 리소스를 가져와야 함을 발견합니다.
@@ -113,7 +113,7 @@ Angular는 라우팅 로직을 통해 각 URI에 대해 정적 텍스트를 inde
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Screenshot](/assets/img/2024-05-16-TheAngular-generatedindexhtmlfile_2.png)
 
 웹페이지의 레이아웃 및 스케일링을 다양한 화면 크기에 맞게 관리하는 방법은 해당 메타 태그에 특정 값을 설정하는 것입니다. 반응형 디자인 요구 사항을 충족하는 데 유용합니다.
@@ -124,7 +124,7 @@ Angular는 라우팅 로직을 통해 각 URI에 대해 정적 텍스트를 inde
 - interactive-widget: 시각 키보드, 브라우저 익스텐션, 접근성 도구와 같은 상위 UI 요소의 동작을 지정합니다.
 - initial-scale, minimum-scale, maximum-scale: 초기 확대 수준을 설정하고 추가 확대를 제한합니다.
 - user-scalable=no: 사용자 스케일링을 막아 WCAG 지침의 일부를 방해하는 것을 방지합니다.
-```
+
 
 <div class="content-ad"></div>
 

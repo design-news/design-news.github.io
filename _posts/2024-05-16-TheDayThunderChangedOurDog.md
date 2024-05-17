@@ -3,13 +3,12 @@ title: "번개가 우리 개를 바꾼 날"
 description: ""
 coverImage: "/assets/img/2024-05-16-TheDayThunderChangedOurDog_0.png"
 date: 2024-05-16 13:19
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-16-TheDayThunderChangedOurDog_0.png
 tag: Tech
 originalTitle: "The Day Thunder Changed Our Dog"
 link: "https://medium.com/wholistique/the-day-thunder-changed-our-dog-93ccc5691941"
 ---
-
 
 ## 유머
 
@@ -31,7 +30,7 @@ link: "https://medium.com/wholistique/the-day-thunder-changed-our-dog-93ccc56919
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-TheDayThunderChangedOurDog_1.png)
 
 Another time, lightning struck our backyard, which means the flash and the boom arrived together. My grandmother was visiting and said, “I felt the hair stand up on my legs.”
@@ -39,7 +38,7 @@ Another time, lightning struck our backyard, which means the flash and the boom 
 Pepper did too. She took off running, shooting poo behind herself in a line that made her easy to track.
 
 ## And Now For The BIG ONE
-```
+
 
 <div class="content-ad"></div>
 
@@ -65,7 +64,7 @@ Pepper did too. She took off running, shooting poo behind herself in a line that
 
 그녀는 그렇게 깊게 들어가 있었다.
 
-``![사진](/assets/img/2024-05-16-TheDayThunderChangedOurDog_2.png)``
+`![사진](/assets/img/2024-05-16-TheDayThunderChangedOurDog_2.png)`
 
 그녀는 침대의 정 중앙에 자신을 들어마구 끼워 넣었다. 불가능한 일이지만 결국 사실인 것을 완전히 느끼게 되었다. 그녀를 빼내려면 침대를 들어야 하는 순간 우리는 이게 얼마나 사실인지 느꼈다.
 
@@ -105,7 +104,7 @@ Pepper did too. She took off running, shooting poo behind herself in a line that
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-TheDayThunderChangedOurDog_3.png)
 
 But it couldn’t last.
@@ -113,7 +112,7 @@ But it couldn’t last.
 If you’ve seen E.T., you understand.
 
 The scientists wouldn’t let us keep our new friend. A vet took one look and gave Hump a new name:
-```
+
 
 <div class="content-ad"></div>
 
@@ -155,7 +154,7 @@ The scientists wouldn’t let us keep our new friend. A vet took one look and ga
 
 하지만, 그렇게 되지 않았어요.
 
-바로 우리는 페퍼가 텅 빈 마음을 되찾은 것처럼 느꼈습니다. 
+바로 우리는 페퍼가 텅 빈 마음을 되찾은 것처럼 느꼈습니다.
 
 누수가 나버렸죠.
 

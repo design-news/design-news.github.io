@@ -3,15 +3,13 @@ title: "디자인 패턴 - 생성 패턴"
 description: ""
 coverImage: "/assets/img/2024-05-16-DesignPatterns-Creationalpatterns_0.png"
 date: 2024-05-16 19:34
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-16-DesignPatterns-Creationalpatterns_0.png
 tag: Tech
 originalTitle: "Design Patterns-Creational patterns"
 link: "https://medium.com/@prikshitsehrawat/design-patterns-creational-patterns-d69c8589e3a6"
 ---
 
-
-```markdown
 ![Class creational patterns](/assets/img/2024-05-16-DesignPatterns-Creationalpatterns_0.png)
 
 Ready Player One: 클래스 생성 패턴은 당신의 캐릭터의 스킬을 레벨업시키는 것과 같아요. 상속을 사용하여 당신의 객체 아르설을 발전시키죠. 한편, 객체 생성 패턴은 당신의 어깨에서 부담을 덜어주는 NPC들처럼, "리스폰"이라고 말하기도 전에 새로운 객체를 소환해줘요!
@@ -19,7 +17,6 @@ Ready Player One: 클래스 생성 패턴은 당신의 캐릭터의 스킬을 �
 생성 패턴을 사용하면, 당신은 게임 마스터가 되어 새로운 객체들이 어떻게, 언제 등장할지를 결정할 수 있어요. 마치 당신이 원할 때 드래곤, 탱크, 혹은 달코너를 소환할 수 있는 치트 메뉴가 있는 것과 같아요!
 
 ![Creational patterns GIF](https://miro.medium.com/v2/resize:fit:996/1*O5YrZc-t4bsJThG184uxZw.gif)
-```
 
 <div class="content-ad"></div>
 
@@ -86,7 +83,6 @@ Ready Player One: 클래스 생성 패턴은 당신의 캐릭터의 스킬을 �
 
 <div class="content-ad"></div>
 
-```markdown
 ![Image](/assets/img/2024-05-16-DesignPatterns-Creationalpatterns_3.png)
 
 게이밍 감성으로 창조의 요소를 추가할 준비가 되셨나요? Abstract Factory가 여러 관련 객체 패밀리를 소환하는 데 도움이 되어 구체적인 세부 정보에 얽매이지 않고 즐길 수 있게 만들어 줄 거에요! 🧙‍♂️ 마치 케릭터 커스터마이징 메뉴처럼 코드를 걱정하지 않고 조합하고 섞어볼 수 있는 느낌이랍니다! 💥
@@ -97,7 +93,6 @@ Ready Player One: 클래스 생성 패턴은 당신의 캐릭터의 스킬을 �
 - 시스템이 다양성을 원하며, 플레이어에게 제품 패밀리 중에서 선택할 수 있는 다채로운 옵션을 제공하고 싶을 때, 마치 가장 좋아하는 게이밍 클랜을 고르는 것처럼! 🎮
 - 제품이 소중한 친구들처럼 밀접하게 연결돼 있어, 꿈팀처럼 함께 작동하도록 설계돼 있고, 그들을 그대로 유지하고 싶을 때! 🚀
 - 플레이어들을 인터페이스만으로 혼란스럽게 만들어 보고 싶을 때, 무엇이 내부에 있는지 알아내기 힘들게 계속해서 궁금히 만들어 놓는 시점에! 🕶️
-```
 
 <div class="content-ad"></div>
 

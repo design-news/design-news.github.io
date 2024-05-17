@@ -3,15 +3,13 @@ title: "인공지능 아이콘 상징 해독하기"
 description: ""
 coverImage: "/assets/img/2024-05-16-DecodingAIIconMetaphors_0.png"
 date: 2024-05-16 23:38
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-16-DecodingAIIconMetaphors_0.png
 tag: Tech
 originalTitle: "Decoding AI Icon Metaphors"
 link: "https://medium.com/brave-people/decoding-ai-icon-metaphors-c094bb037943"
 ---
 
-
-```markdown
 ![Image](/assets/img/2024-05-16-DecodingAIIconMetaphors_0.png)
 
 인공지능(AI)을 상징하는 것은 인간의 지성과 기술적 능력이 융합된 상징적 아이콘에 의존하는 디자이너들이 많습니다. 최첨단 기술 분야를 대표하는 인공지능(AI)을 표현할 때, 디자이너들은 인간의 지성과 기술적 재치가 결합된 비유적 아이콘을 만드는 과제에 직면합니다. 현재까지 우리가 본 것은 다음과 같습니다:
@@ -19,7 +17,6 @@ link: "https://medium.com/brave-people/decoding-ai-icon-metaphors-c094bb037943"
 ## 로봇 머리:
 
 ![Image](/assets/img/2024-05-16-DecodingAIIconMetaphors_1.png)
-```
 
 <div class="content-ad"></div>
 

@@ -3,13 +3,12 @@ title: "효과적인 아이콘 디자인하는 방법, 제1부"
 description: ""
 coverImage: "/assets/img/2024-05-16-HowtodesigneffectiveiconsPart1_0.png"
 date: 2024-05-16 19:22
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-16-HowtodesigneffectiveiconsPart1_0.png
 tag: Tech
 originalTitle: "How to design effective icons, Part 1"
 link: "https://medium.com/thinking-design/how-to-design-effective-icons-part-1-693c7e0adb5d"
 ---
-
 
 아름답고 의미 있는 일관된 시각 언어를 만들어보세요.
 
@@ -33,7 +32,7 @@ link: "https://medium.com/thinking-design/how-to-design-effective-icons-part-1-6
 
 ![HowtodesigneffectiveiconsPart1_1.png 이미지](/assets/img/2024-05-16-HowtodesigneffectiveiconsPart1_1.png)
 
-...그리고 좋은 의자가 필요해요. 나쁜 자세나 목을 내밀거나 굽히는 걸 피하려면 화면으로부터 팔길이 정도 떨어진 곳에 앉아 보세요 (아이콘을 근거리에서 보면 쉽게 목을 피로하게 할 수 있어요). 아이콘 디자인에서 세부사항은 중요하지만 목을 과도하게 굴리지 않는 게 더 중요해요. 캔버스에 확대/축소하는 단축키를 사용하세요: 벡터 모양을 편집할 때 3200%로 확대하고 결과물을 확인할 때 100%로 축소하세요. 또한 Illustrator에서 (Ai ` 메뉴 ` 창 ` 새 창) 아이콘의 100% 표현을 보여주는 두 번째 창을 열어 3200%와 100% 간 이동을 쉽게 할 수도 있어요.
+...그리고 좋은 의자가 필요해요. 나쁜 자세나 목을 내밀거나 굽히는 걸 피하려면 화면으로부터 팔길이 정도 떨어진 곳에 앉아 보세요 (아이콘을 근거리에서 보면 쉽게 목을 피로하게 할 수 있어요). 아이콘 디자인에서 세부사항은 중요하지만 목을 과도하게 굴리지 않는 게 더 중요해요. 캔버스에 확대/축소하는 단축키를 사용하세요: 벡터 모양을 편집할 때 3200%로 확대하고 결과물을 확인할 때 100%로 축소하세요. 또한 Illustrator에서 (Ai `메뉴` 창 ` 새 창) 아이콘의 100% 표현을 보여주는 두 번째 창을 열어 3200%와 100% 간 이동을 쉽게 할 수도 있어요.
 
 ## 아이콘 유형 파악하기
 
@@ -59,7 +58,6 @@ link: "https://medium.com/thinking-design/how-to-design-effective-icons-part-1-6
 
 <div class="content-ad"></div>
 
-```markdown
 ![이미지](/assets/img/2024-05-16-HowtodesigneffectiveiconsPart1_4.png)
 
 아이콘의 목표는 최대한 많은 내용을 전달하는 것입니다. 따라서 사람들이 그들을 이해하고 사용하는 방법을 지원하는 지식 기반을 조심스럽게 구축하기 위해 조심스럽게 조합하세요. 사람들이 이해하는 비유를 사용하고 화살표와 같은 익숙한 비유를 낯선 방식으로 사용하지 않도록 주의하세요. 아이콘 비유는 배워야 하며, 사람들은 무언가를 빨리 해야 할 때 그것들을 배우고 싶어하지 않습니다.
@@ -67,7 +65,6 @@ link: "https://medium.com/thinking-design/how-to-design-effective-icons-part-1-6
 마지막으로, 연구를 하세요. Noun Project, Iconfinder 또는 Google 이미지와 같은 웹사이트에서 의미를 확인하고 옵션을 탐색하여 아이콘을 이해하기 쉽게 만드세요.
 
 ## 배지 (및 수정자)는 보충적인 의미를 추가합니다
-```
 
 <div class="content-ad"></div>
 

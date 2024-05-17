@@ -3,13 +3,12 @@ title: "글꼴 속 아이콘, 일러스트 그들은 무엇이며, 그들의 목
 description: ""
 coverImage: "/assets/img/2024-05-16-IconsIllustrationsinFontsWhataretheyandwhatstheirpurpose_0.png"
 date: 2024-05-16 19:27
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-16-IconsIllustrationsinFontsWhataretheyandwhatstheirpurpose_0.png
 tag: Tech
 originalTitle: "Icons , Illustrations in Fonts: What are they, and what’s their purpose?"
 link: "https://medium.com/@typetype/icons-illustrations-in-fonts-what-are-they-and-whats-their-purpose-5bb942dc4877"
 ---
-
 
 ![image](https://miro.medium.com/v2/resize:fit:1400/0*A7iHN_QENjPOe2Vk.gif)
 
@@ -98,7 +97,6 @@ TT 리크스는 스파이키, 날카로운, 조금 화려하고, 화가 나있�
 
 <div class="content-ad"></div>
 
-```
 ![icon1](/assets/img/2024-05-16-IconsIllustrationsinFontsWhataretheyandwhatstheirpurpose_9.png)
 
 ## Charming TT Espina
@@ -106,7 +104,6 @@ TT 리크스는 스파이키, 날카로운, 조금 화려하고, 화가 나있�
 TT Espina는 글꼴 그래픽이 아이콘 그래픽에 영향을 미치는 또 다른 예입니다. 이는 보효 스타일을 연상시키고 마법적인 느낌을 주는 다이아몬드 모양의 형태를 가진 고 대조도이자 약간 공격적인 서체입니다. TT Espina의 아이콘 세트는 크리스털 공, 별, 혜성, 매칭, 그리고 크리스털을 특징으로 합니다.
 
 ![icon2](/assets/img/2024-05-16-IconsIllustrationsinFontsWhataretheyandwhatstheirpurpose_10.png)
-```
 
 <div class="content-ad"></div>
 
@@ -130,7 +127,6 @@ TT 트레일러는 글꼴의 용도가 아이콘 세트에 어떻게 영향을 �
 
 <div class="content-ad"></div>
 
-```
 ![Icon 1](/assets/img/2024-05-16-IconsIllustrationsinFontsWhataretheyandwhatstheirpurpose_13.png)
 
 ## Convenient TT Interphases Pro
@@ -138,7 +134,6 @@ TT 트레일러는 글꼴의 용도가 아이콘 세트에 어떻게 영향을 �
 This typeface was designed to be used in interfaces; that’s why it features a large set of icons commonly used in interfaces: various arrows, ticks, gears, folders, etc.
 
 ![Icon 2](/assets/img/2024-05-16-IconsIllustrationsinFontsWhataretheyandwhatstheirpurpose_14.png)
-```
 
 <div class="content-ad"></div>
 
@@ -202,10 +197,8 @@ TT Marxiana은 19세기 후반에서 20세기 초에 생산된 «니바(Niva)»�
 
 <div class="content-ad"></div>
 
-```markdown
 <img src="/assets/img/2024-05-16-IconsIllustrationsinFontsWhataretheyandwhatstheirpurpose_21.png" />
 
 # 결론
 
 폰트 내 아이콘들은 글꼴의 특징을 강조하기 위한 독특한 추가물뿐만 아니라, 디자이너의 가능성을 확장하는 훌륭한 도구임을 알 수 있습니다.
-```

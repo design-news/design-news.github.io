@@ -3,15 +3,13 @@ title: "끊임없는 실패를 거듭한 시각 AI 프롬프트 후, 손으로 �
 description: ""
 coverImage: "/assets/img/2024-05-16-AftercountlessfailedvisualAIpromptsImreturningtomyhands-ondrawingpractice_0.png"
 date: 2024-05-16 19:32
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-16-AftercountlessfailedvisualAIpromptsImreturningtomyhands-ondrawingpractice_0.png
 tag: Tech
 originalTitle: "After countless failed visual AI prompts, I’m returning to my hands-on drawing practice"
 link: "https://medium.com/cub3d/after-countless-failed-visual-ai-prompts-im-returning-to-my-hands-on-drawing-practice-d986a5e3e192"
 ---
 
-
-```markdown
 ![Image](/assets/img/2024-05-16-AftercountlessfailedvisualAIpromptsImreturningtomyhands-ondrawingpractice_0.png)
 
 Today, I threw in the AI towel. No more. I’m returning to my beloved 5B graphic pencil, sketch pad, and eraser.
@@ -19,7 +17,6 @@ Today, I threw in the AI towel. No more. I’m returning to my beloved 5B graphi
 How I missed you, pencil.
 
 Drawing is fundamental to our creator’s DNA. Without drawing, there’s no visual language. Through drawing, we can express our complicated thoughts and feelings and present our ideas to the world exactly how we see and experience them.
-```
 
 <div class="content-ad"></div>
 
@@ -63,7 +60,7 @@ AI 지출이 많이 들어요, 너무 많이요. 생성자인 당신에게는 �
 
 <div class="content-ad"></div>
 
-내 의례가 돌아왔어요. 연주자가 공연 전에 악기를 조율하는 것처럼, 나는 도구들을 정리하고 그들의 본질을 맡으면서 숨을 들이마셨어요. 
+내 의례가 돌아왔어요. 연주자가 공연 전에 악기를 조율하는 것처럼, 나는 도구들을 정리하고 그들의 본질을 맡으면서 숨을 들이마셨어요.
 
 # 그림
 
@@ -83,7 +80,7 @@ AI 지출이 많이 들어요, 너무 많이요. 생성자인 당신에게는 �
 
 <div class="content-ad"></div>
 
-*한 가지 기술이에요. 많은 기술이 있어요.
+\*한 가지 기술이에요. 많은 기술이 있어요.
 
 # 그림 그리는 비밀
 

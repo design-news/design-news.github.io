@@ -3,13 +3,12 @@ title: "나, 개, 세계적으로 유명한 악취 전문가이자 나의 주인
 description: ""
 coverImage: "/assets/img/2024-05-16-IDogAmaWorld-FamousOdorologistandItsInsultingMyHumansOnlySeeMeasaGoodGirl_0.png"
 date: 2024-05-16 23:51
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-16-IDogAmaWorld-FamousOdorologistandItsInsultingMyHumansOnlySeeMeasaGoodGirl_0.png
 tag: Tech
 originalTitle: "I, Dog, Am a World-Famous Odorologist and It’s Insulting My Humans Only See Me as a “Good Girl”"
 link: "https://medium.com/thebelladonnacomedy/i-dog-am-a-world-famous-odorologist-and-its-insulting-my-humans-only-see-me-as-a-good-girl-a6611f86ccbb"
 ---
-
 
 ## 여성이 STEM 분야에서 느끼는 것
 
@@ -21,7 +20,6 @@ link: "https://medium.com/thebelladonnacomedy/i-dog-am-a-world-famous-odorologis
 
 <div class="content-ad"></div>
 
-```markdown
 ![Image 3](/assets/img/2024-05-16-IDogAmaWorld-FamousOdorologistandItsInsultingMyHumansOnlySeeMeasaGoodGirl_3.png)
 
 ![Image 4](/assets/img/2024-05-16-IDogAmaWorld-FamousOdorologistandItsInsultingMyHumansOnlySeeMeasaGoodGirl_4.png)
@@ -29,11 +27,10 @@ link: "https://medium.com/thebelladonnacomedy/i-dog-am-a-world-famous-odorologis
 ![Image 5](/assets/img/2024-05-16-IDogAmaWorld-FamousOdorologistandItsInsultingMyHumansOnlySeeMeasaGoodGirl_5.png)
 
 ![Image 6](/assets/img/2024-05-16-IDogAmaWorld-FamousOdorologistandItsInsultingMyHumansOnlySeeMeasaGoodGirl_6.png)
-```
 
 <div class="content-ad"></div>
 
-Please remove the space after _ (underscore) and before ( hyphen) on filename.
+Please remove the space after \_ (underscore) and before ( hyphen) on filename.
 
 [Link to the Images 7](/assets/img/2024-05-16-IDogAmaWorld-FamousOdorologistandItsInsultingMyHumansOnlySeeMeasaGoodGirl-7.png)
 

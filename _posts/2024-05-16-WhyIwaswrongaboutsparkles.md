@@ -3,15 +3,13 @@ title: "스파클에 대해 잘못 생각했던 이유 "
 description: ""
 coverImage: "/assets/img/2024-05-16-WhyIwaswrongaboutsparkles_0.png"
 date: 2024-05-16 19:20
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-16-WhyIwaswrongaboutsparkles_0.png
 tag: Tech
 originalTitle: "Why I was wrong about sparkles ✨"
 link: "https://medium.com/user-experience-design-1/why-i-was-wrong-about-sparkles-02abbaee87f4"
 ---
 
-
-```markdown
 ![Image](/assets/img/2024-05-16-WhyIwaswrongaboutsparkles_0.png)
 
 작년에 나는 내가 좋아하는 이모티콘 중 하나인 반짝임의 기원과 진화를 다룬 기사를 썼어요. ✨ 그때는 인공지능 영역에서 실험중인 기업들이 네 모서리 별 아이콘이나 반짝임 군집을 사용해 어떤 종류의 AI 능력을 대표하고자 했어요. 이러한 추세를 비판했는데, 반짝임 뒤에는 모호한 의미가 있다고 지적했죠. 사용자 경험 측면에서, 반짝임은 AI와 관련이 있다고 즉시 인식하기 어렵다고 생각해요. 그보다는 새로운 ✨ (반짝이는 새로운) ✨ 기능이나 다른 것을 나타내는 데 가장 적합하다고 말했죠.
@@ -19,7 +17,6 @@ link: "https://medium.com/user-experience-design-1/why-i-was-wrong-about-sparkle
 하지만, 그게 전년도의 이야기에요. 이제 인공지능은 모조리 반짝임에 대한 것이죠.
 
 # 왜 반짝임이 AI를 대표하는 데 사용될까요?
-```
 
 <div class="content-ad"></div>
 
@@ -35,26 +32,28 @@ link: "https://medium.com/user-experience-design-1/why-i-was-wrong-about-sparkle
 
 아래의 텍스트를 친절한 톤으로 한국어로 번역해주세요.
 
-```markdown
 <img src="/assets/img/2024-05-16-WhyIwaswrongaboutsparkles_1.png" />
 
 ## Notion
 
 <img src="/assets/img/2024-05-16-WhyIwaswrongaboutsparkles_2.png" />
 
-## Zoom
+Zoom
+
 ```
 
-<div class="content-ad"></div>
+v class="content-ad"></div>
 
-```markdown
+```
+
 ![image](/assets/img/2024-05-16-WhyIwaswrongaboutsparkles_3.png)
 
 ## Spotify
 
-![image](/assets/img/2024-05-16-WhyIwaswrongaboutsparkles_4.png)
+mage](/assets/img/2024-05-16-WhyIwaswrongaboutsparkles_4.png)
 
 ## ChatGPT
+
 ```
 
 <div class="content-ad"></div>
@@ -79,22 +78,26 @@ link: "https://medium.com/user-experience-design-1/why-i-was-wrong-about-sparkle
 
 <div class="content-ad"></div>
 
-조던 로스는 생성적 AI  제품 디자이너로 활동하며, AI를 나타내는 짧은 기호가 중요하다고 쓰고 있습니다. 로봇이나 뇌를 포함하지 않은 것이 좋다고 주장합니다. 반짝임이 잘못된 선택일 수도 있다고 합니다. 그는 사용자들이 AI가 모든 문제를 해결하고, 모든 것을 알고 강력하기만 하다고 기대했다는 경험이 있다고 합니다.
+조던 로스는 생성적 AI 제품 디자이너로 활동하며, AI를 나타내는 짧은 기호가 중요하다고 쓰고 있습니다. 로봇이나 뇌를 포함하지 않은 것이 좋다고 주장합니다. 반짝임이 잘못된 선택일 수도 있다고 합니다. 그는 사용자들이 AI가 모든 문제를 해결하고, 모든 것을 알고 강력하기만 하다고 기대했다는 경험이 있다고 합니다.
 
 로스는 "모자에서 토끼를 꺼내거나 주문을 거는 것을 떠올리게 하는 방식으로 그림을 그릴 경우, 사람들의 비현실적인 기대만 더 커질 것"이라고 이야기합니다.
 
 AI는 모든 일을 할 수 없습니다. AI는 마술이 아니며, 그렇게 표현되어서는 안된다. 그렇다면 AI를 어떻게 상징할까요?
 
-# AI를 상징하는 방법
+I를 상징하는 방법
 
 <div class="content-ad"></div>
 
-```markdown
+```
+
 ![Sparkles](/assets/img/2024-05-16-WhyIwaswrongaboutsparkles_8.png)
 
-반짝임은 이미 AI 기능을 표현하는 인기 있는 방법이며, 그것은 변경될 가능성이 거의 없습니다. 따라서 이 문제에 대한 해결책은 AI와 동의어가 되는 새로운 기호나 이모티콘을 만드는 것이 아니라, 우리는 반짝임을 받아들여야 합니다. 그러나 그에 대한 주의사항은 AI가 마법이 아님을 이해해야 합니다.
+은 이미 AI 기능을 표현하는 인기 있는 방법이며, 그것은 변경될 가능성이 거의 없습니다. 따라서 이 문제에 대한 해결책은 AI와 동의어가 되는 새로운 기호나 이모티콘을 만드는 것이 아니라, 우리는 반짝임을 받아들여야 합니다. 그러나 그에 대한 주의사항은 AI가 마법이 아님을 이해해야 합니다.
 
 반짝임이 시간이 흐름에 따라 인기를 얻은 것처럼, AI가 무엇을 할 수 있는지 그리고 할 수 없는지에 대한 이해력도 늘어날 것입니다. 더 많은 사람들이 AI를 사용함에 따라, 더 많은 사람들이 기술이 액세스하는 데이터로 제한되었을 수도 있는 불완전하거나 부정확한 자료에 의하여 제한된다는 것을 깨닫게 될 것입니다. 만약 사람들이 마법이 엄격한 규칙을 가지고 있는 더 어려운 환경들의 규칙을 배울 수 있다면, 사람들은 AI의 한계를 배울 수 있을 것입니다.
 
 물론 이 반짝이는 새로운 기술에 여전히 매우 감명을 받을 것입니다. ✨
+
+```
+
 ```

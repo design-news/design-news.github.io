@@ -3,13 +3,12 @@ title: "오픈 소스 리액트 UI 라이브러리 구축하기 - 2일째"
 description: ""
 coverImage: "/assets/img/2024-05-16-BuildinganOpenSourceReactUILibraryDay2_0.png"
 date: 2024-05-16 19:18
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-16-BuildinganOpenSourceReactUILibraryDay2_0.png
 tag: Tech
 originalTitle: "Building an Open Source React UI Library — Day 2"
 link: "https://medium.com/@m.cavallo1011/building-an-open-source-react-ui-library-day-2-f865e355ecb9"
 ---
-
 
 <img src="/assets/img/2024-05-16-BuildinganOpenSourceReactUILibraryDay2_0.png" />
 
@@ -31,7 +30,7 @@ link: "https://medium.com/@m.cavallo1011/building-an-open-source-react-ui-librar
 
 <div class="content-ad"></div>
 
-다음은 React 프로젝트를  처음부터 시작하는 방법을 설명하겠습니다. Create React App을 사용하는 대신에 번들러로 Vite를 선택했습니다. Vite는 빠르고 간단하다는 것으로 알려져 있어서 개발 프로세스를 효과적으로 해결하는 데 도움이 될 것입니다. 아래는 설정하는 방법입니다:
+다음은 React 프로젝트를 처음부터 시작하는 방법을 설명하겠습니다. Create React App을 사용하는 대신에 번들러로 Vite를 선택했습니다. Vite는 빠르고 간단하다는 것으로 알려져 있어서 개발 프로세스를 효과적으로 해결하는 데 도움이 될 것입니다. 아래는 설정하는 방법입니다:
 
 ```js
 pnpm add react react-dom
@@ -42,11 +41,11 @@ pnpm add -D vite @vitejs/plugin-react
 
 ```js
 // vite.config.ts
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 
 export default defineConfig({
- plugins: [react()],
+  plugins: [react()],
 });
 ```
 
@@ -74,12 +73,7 @@ export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   size?: "small" | "medium" | "large";
 }
 
-export const Button = ({
-  className,
-  size = "medium",
-  variant = "primary",
-  ...props
-}: ButtonProps) => (
+export const Button = ({ className, size = "medium", variant = "primary", ...props }: ButtonProps) => (
   <button className={`button button--${variant} button--${size}`} {...props} />
 );
 ```
@@ -218,9 +212,7 @@ pnpm dev
   "author": "Matteo Cavallo",
   "description": "EtnaUI는 이탈리아에서 사랑을 담아 만들어진 종합적인 디자인 시스템입니다.",
   "type": "module",
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "scripts": {
     "dev": "vite"
   },
@@ -251,7 +243,6 @@ pnpm dev
 - 변형에 대해 CVA 사용 여부 고려
 - 스타일링을 위해 BEM 사용 여부 고려
 - 코드 품질을 위한 ESLint 추가
-```
 
 <div class="content-ad"></div>
 

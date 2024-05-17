@@ -3,15 +3,13 @@ title: "Tauri 프레임워크에 대한 나의 의견"
 description: ""
 coverImage: "/assets/img/2024-05-16-MyopinionontheTauriframework_0.png"
 date: 2024-05-16 23:20
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-16-MyopinionontheTauriframework_0.png
 tag: Tech
 originalTitle: "My opinion on the Tauri framework"
 link: "https://medium.com/@nfrankel/my-opinion-on-the-tauri-framework-1721255f3abf"
 ---
 
-
-```markdown
 ![Screenshot](/assets/img/2024-05-16-MyopinionontheTauriframework_0.png)
 
 저는 항상 GUI를 좋아했어요. 데스크톱 기반과 브라우저 기반 둘 다요. 특히 후자는 예전에는 필요했던 5년의 교육을 받아야 했죠. 그래서 저는 Vaadin을 사랑했고 지금도 사랑합니다. HTML, JavaScript, CSS를 한 줄도 작성하지 않아도 웹 UI를 개발할 수 있어서 그래요. 몇 년 전에는 JVM 데스크톱 프레임워크의 상태를 분석했죠.
@@ -19,7 +17,6 @@ link: "https://medium.com/@nfrankel/my-opinion-on-the-tauri-framework-1721255f3a
 저는 Rust 프로그래밍 언어를 아주 좋아해요.
 
 Tauri는 Rust 기반의 데스크톱 애플리케이션을 만들기 위한 프레임워크에요. 여기에 제 의견을 적어봤어요.
-```
 
 <div class="content-ad"></div>
 
@@ -27,19 +24,18 @@ Tauri는 Rust 기반의 데스크톱 애플리케이션을 만들기 위한 프�
 
 Tauri 앱은 두 가지 모듈로 구성되어 있습니다: 표준 웹 기술(HTML, Javascript 및 CSS)로 작성된 클라이언트 측 모듈과 Rust로 작성된 백엔드 모듈입니다. Tauri는 UI를 전용 Chrome 브라우저 인스턴스에서 실행합니다.
 
-사용자는 UI와 평소와 같이 상호 작용합니다. Tauri는 클라이언트 측 JavaScript와 백엔드 Rust 간에 특정 JS 모듈인 window.__TAURI__.tauri를 통한 바인딩을 제공합니다. 또한 파일 시스템, OS, 클립보드, 창 관리 등 로컬 시스템과 상호 작용하기 위한 다른 모듈도 제공합니다.
+사용자는 UI와 평소와 같이 상호 작용합니다. Tauri는 클라이언트 측 JavaScript와 백엔드 Rust 간에 특정 JS 모듈인 window.**TAURI**.tauri를 통한 바인딩을 제공합니다. 또한 파일 시스템, OS, 클립보드, 창 관리 등 로컬 시스템과 상호 작용하기 위한 다른 모듈도 제공합니다.
 
 바인딩은 문자열을 기반으로 합니다. 다음은 클라이언트 측 코드입니다:
 
 <div class="content-ad"></div>
 
-```markdown
 ```js
 const { invoke } = window.__TAURI__.tauri;
 
 let greetInputEl;
 let greetMsgEl;
-greetMsgEl.textContent = await invoke("greet", { name: greetInputEl.value });  //1
+greetMsgEl.textContent = await invoke("greet", { name: greetInputEl.value }); //1
 ```
 
 - greet 명령을 호출합니다.
@@ -51,7 +47,6 @@ greetMsgEl.textContent = await invoke("greet", { name: greetInputEl.value });  /
 fn greet(name: &str) -> String {                                               //1
     format!("안녕, {}! 러스트에서 인사 받았어요!", name)
 }
-``` 
 ```
 
 <div class="content-ad"></div>
@@ -63,14 +58,14 @@ fn greet(name: &str) -> String {                                               /
 # 좋은 점
 
 - 시작하기:
-다행히도, 최근에는 점차 드문 일이지만, 어떤 기술은 전문가가 되기 전에는 초심자라는 것을 명심해야 합니다. 모든 사이트의 첫 번째 섹션은 기술에 대한 간단한 설명이어야 하며, 두 번째 섹션은 시작하는 방법이어야 합니다. Tauri는 이를 제대로 해냅니다; Quick start 가이드를 따라 몇 분 만에 첫 번째 Tauri 앱을 만들 수 있었습니다.
+  다행히도, 최근에는 점차 드문 일이지만, 어떤 기술은 전문가가 되기 전에는 초심자라는 것을 명심해야 합니다. 모든 사이트의 첫 번째 섹션은 기술에 대한 간단한 설명이어야 하며, 두 번째 섹션은 시작하는 방법이어야 합니다. Tauri는 이를 제대로 해냅니다; Quick start 가이드를 따라 몇 분 만에 첫 번째 Tauri 앱을 만들 수 있었습니다.
 - 문서:
-Tauri의 문서는 포괄적이고 내용이 풍부하며(제가 훑어 본 한계 내에서), 잘 구조화되어 있습니다.
+  Tauri의 문서는 포괄적이고 내용이 풍부하며(제가 훑어 본 한계 내에서), 잘 구조화되어 있습니다.
 - 훌륭한 피드백 루프:
-변화의 결과를 보는 데 걸리는 시간인 피드백 루프가 기술을 사용할 수 없게 만드는 경우가 있습니다. GWT, 당신을 바라봅니다. 짧은 피드백 루프는 개발자 경험을 향상시킵니다. 
-이 면에서 Tauri는 좋은 평가를 받았습니다. 간단한 cargo tauri dev 명령으로 앱을 실행할 수 있습니다. 앞단이 변하면 Tauri가 다시 로드됩니다. tauri.conf.json에 저장된 것과 같은 메타데이터가 변경되면 Tauri가 앱을 재시작합니다. 유일한 단점은 두 동작 모두 UI 상태가 손실된다는 것입니다.
+  변화의 결과를 보는 데 걸리는 시간인 피드백 루프가 기술을 사용할 수 없게 만드는 경우가 있습니다. GWT, 당신을 바라봅니다. 짧은 피드백 루프는 개발자 경험을 향상시킵니다.
+  이 면에서 Tauri는 좋은 평가를 받았습니다. 간단한 cargo tauri dev 명령으로 앱을 실행할 수 있습니다. 앞단이 변하면 Tauri가 다시 로드됩니다. tauri.conf.json에 저장된 것과 같은 메타데이터가 변경되면 Tauri가 앱을 재시작합니다. 유일한 단점은 두 동작 모두 UI 상태가 손실된다는 것입니다.
 - 완전한 라이프사이클 관리:
-Tauri는 앱을 개발하는 데 도움을 줄 뿐만 아니라 디버그, 테스트, 빌드 및 배포를 위한 도구도 제공합니다.
+  Tauri는 앱을 개발하는 데 도움을 줄 뿐만 아니라 디버그, 테스트, 빌드 및 배포를 위한 도구도 제공합니다.
 
 <div class="content-ad"></div>
 
@@ -105,3 +100,7 @@ Tauri는 앱을 개발하는 데 도움을 줄 뿐만 아니라 디버그, 테�
 <div class="content-ad"></div>
 
 친구야, 2024년 5월 12일자로 A Java Geek에서 원래 발행되었습니다.
+
+
+
+

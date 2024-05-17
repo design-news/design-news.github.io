@@ -3,13 +3,12 @@ title: "SaaS에서의 타이포그래피 사용자 경험을 변화시키는 방
 description: ""
 coverImage: "/assets/img/2024-05-16-TypographyinSaaSHowItTransformsUserExperience_0.png"
 date: 2024-05-16 23:42
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-16-TypographyinSaaSHowItTransformsUserExperience_0.png
 tag: Tech
 originalTitle: "Typography in SaaS: How It Transforms User Experience"
 link: "https://medium.com/trydrool/typography-in-saas-how-it-transforms-user-experience-9e2860eb0c13"
 ---
-
 
 ## UX DESIGN
 
@@ -41,7 +40,6 @@ Slack은 사용자 포커스를 효과적으로 안내하는 타이포그래피�
 
 <div class="content-ad"></div>
 
-```markdown
 ![이미지](/assets/img/2024-05-16-TypographyinSaaSHowItTransformsUserExperience_2.png)
 
 Slack의 방법을 연구하고 이와 유사한 원칙을 SaaS 플랫폼에 적용함으로써 더 정돈되고 사용자 친화적인 인터페이스를 만들 수 있습니다. 이러한 전략적인 타이포그래피 사용은 사용자가 플랫폼을 더 효과적으로 탐색할 수 있도록 도와줄 뿐만 아니라 제품과 상호작용하는 것이 보다 만족스럽고, 사용자 만족도와 유지율을 향상시킬 수 있습니다.
@@ -49,7 +47,8 @@ Slack의 방법을 연구하고 이와 유사한 원칙을 SaaS 플랫폼에 적
 # 가독성 보장을 통한 읽기 편안함 제공
 
 모든 사용자가 손쉽게 읽을 수 있는 텍스트를 보장하는 것은 SaaS 플랫폼을 디자인하는 데 있어 핵심 요소입니다. 매력적인 글꼴을 선택하는 것 이상의 복잡함을 요구합니다. 플랫폼은 모든 사용자에게 즉각적인 가독성을 제공해야 합니다. 최적의 가독성은 텍스트가 배경에 대한 높은 대조를 가지고 있고, 줄 간격과 글자 간격 사이에 충분한 공간을 확보하여 읽기 세션 중의 편안함을 증진시키고 읽기 중의 눈의 피로를 줄입니다. SaaS 플랫폼에서 가독성을 최적화 하려면 텍스트 가시성을 높이기 위해 높은 대조의 색 구성표를 고려해야 합니다. 또한 줄 간격(리딩)과 글자 간격(트래킹)을 조정하여 텍스트의 가독성을 향상시켜야 합니다. 목표는 사용자가 내용에 집중하고 분산되지 않고 컨텐츠에 집중할 수 있는 시각적으로 편안한 공간을 조성하는 것입니다.
-```
+
+
 
 <div class="content-ad"></div>
 
@@ -119,7 +118,8 @@ SaaS 플랫폼을 글로벌로 확장할 때는 사용자들의 다양한 문화
 
 <div class="content-ad"></div>
 
-```markdown
+
+
 ![Typography in SaaS](/assets/img/2024-05-16-TypographyinSaaSHowItTransformsUserExperience_8.png)
 
 SaaS 제품에 이 접근법을 적용하려면, 글꼴 선택이 브랜드 정체성을 반영하고 강화할 수 있는 방법을 고려해보세요. Airbnb와 같이 사용자 정의 글꼴을 선택하거나 브랜드 가치와 일치하는 기존 글꼴을 신중하게 선택하는 등, 글꼴은 브랜드로서 당신이 누구인지 신중히 반영해야 합니다. 이는 미적인 면을 넘어서 브랜드의 강한 존재감과 사용자와의 깊은 연결에 기여합니다. Cereal과 함께 Airbnb가 보여주는 것처럼, 글꼴을 브랜드 정체성의 연장선으로 볼 때, 이를 활용하여 브랜드의 본질과 가치를 캡쳐한 독특하고 일관된 사용자 경험을 만들 수 있습니다. Airbnb의 Cereal을 통해 브랜드 정체성을 반영하는 핵심적인 측면으로서 UI 디자인을 강조함으로써, 시각적 요소와 웹 글꼴을 통합하여 서로 다른 플랫폼에서 일관된 브랜드 정체성을 보장함을 보여줍니다.
@@ -127,12 +127,17 @@ SaaS 제품에 이 접근법을 적용하려면, 글꼴 선택이 브랜드 정�
 # 마무리:
 
 SaaS 디자인에서의 타이포그래피가 단순히 멋있게 보이는 것 이상인 것은 분명합니다. 사용자가 플랫폼과 상호 작용하는 방식에 영향을 미치는 중요한 요소입니다. 브랜드 언어를 전달하는 적합한 글꼴 스타일을 선택하고 텍스트가 모든 사람에게 읽기 쉽고 접근 가능하도록 하는 것부터 사용자 경험을 형성하는 과정에는 모든 타이포그래피적 결정이 역할을 합니다. 기억하세요, 목표는 사용자를 위한 원활한 여행을 만드는 것입니다. 각 단어, 각 글자가 사용자를 부드럽게 안내하는 것처럼 느껴지도록 하는 것입니다. 전문가들로부터 배우면 신중한 타이포그래피와 관련된 글꼴이 사용성, 참여 및 전반적인 만족도를 높이는 방법을 알 수 있습니다. 그러니 이러한 통찰력을 차용하여 타이포그래피를 실험하고, 당신의 SaaS 플랫폼이 모든 사용자에게 직관적이고 포괄적이며 매력적이게 만들어지는 것을 지켜보세요. 그리고 누가 알겠습니까? 올바른 타이포그래픽 요소로, 당신의 플랫폼이 사용자들이 체험하기 전까지 필요하다는 것을 몰랐던 다음 큰 것이 될 수도 있습니다.
-```
+
+
 
 <div class="content-ad"></div>
 
-```markdown
+
+
 ![image](https://miro.medium.com/v2/resize:fit:1400/1*DZ1nj9QYPy0a5IOuXw3ddg.gif)
 
 References:
-```
+
+
+
+
