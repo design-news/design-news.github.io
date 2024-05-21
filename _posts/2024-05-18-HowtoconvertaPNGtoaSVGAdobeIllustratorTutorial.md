@@ -3,13 +3,12 @@ title: "PNG 파일을 SVG로 변환하는 방법  Adobe Illustrator 튜토리얼
 description: ""
 coverImage: "/assets/img/2024-05-18-HowtoconvertaPNGtoaSVGAdobeIllustratorTutorial_0.png"
 date: 2024-05-18 22:47
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-18-HowtoconvertaPNGtoaSVGAdobeIllustratorTutorial_0.png
 tag: Tech
 originalTitle: "How to convert a PNG to a SVG — Adobe Illustrator Tutorial"
 link: "https://medium.com/@annnajohn/how-to-convert-a-png-to-a-svg-adobe-illustrator-tutorial-56ebf4f6a1b5"
 ---
-
 
 가끔 디자이너에게 가장 시간이 많이 걸리는 작업은 적절한 확장 가능한 벡터 그래픽을 찾는 일입니다.
 
@@ -63,8 +62,6 @@ PNG를 SVG로 변환하는 방법을 보여주는 간단한 단계별 튜토리�
 
 배경을 두 번 클릭하여 삭제한 후 다른 SVG 파일을 편집하는 것과 마찬가지로 편집할 수 있습니다.
 
-```markdown
 <img src="/assets/img/2024-05-18-HowtoconvertaPNGtoaSVGAdobeIllustratorTutorial_6.png" />
-```
 
 필요한 형식으로 SVG 또는 다른 형식으로 내보내기를 완료하세요.

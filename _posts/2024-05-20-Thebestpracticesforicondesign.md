@@ -3,15 +3,14 @@ title: "아이콘 디자인을 위한 최상의 방법"
 description: ""
 coverImage: "/assets/img/2024-05-20-Thebestpracticesforicondesign_0.png"
 date: 2024-05-20 23:40
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-20-Thebestpracticesforicondesign_0.png
 tag: Tech
 originalTitle: "The best practices for icon design"
 link: "https://medium.com/@sumannissi_41351/the-best-practices-for-icon-design-900e0d59ee64"
 ---
 
-
-국내외 다양한 디자인 시스템의 디자이너들의 작업을 탐구하면서, 지식을 쌓고 지침을 받으며 여러 차례 실험하고 실패한 결과, 아이콘 제작에 대한 최고의 사례 연구를 마친 것으로 여겨집니다. 이것이 실시간으로 진행되는 최고의 사례 연구라고 자신합니다. 
+국내외 다양한 디자인 시스템의 디자이너들의 작업을 탐구하면서, 지식을 쌓고 지침을 받으며 여러 차례 실험하고 실패한 결과, 아이콘 제작에 대한 최고의 사례 연구를 마친 것으로 여겨집니다. 이것이 실시간으로 진행되는 최고의 사례 연구라고 자신합니다.
 
 아이콘의 주된 목적은 사용자들에게 문맥을 이해할 수 있는 간단한 방법을 제공하는 것입니다. 아이콘은 사용자들이 명확하게 이해하고 빠른 조치를 취할 수 있도록 도와줍니다.
 
@@ -29,17 +28,14 @@ link: "https://medium.com/@sumannissi_41351/the-best-practices-for-icon-design-9
 
 <div class="content-ad"></div>
 
-```markdown
 ![Icon Design Best Practices 1](/assets/img/2024-05-20-Thebestpracticesforicondesign_2.png)
 
-Creating Icons: Key Points 
+Creating Icons: Key Points
 When designing icons, it's important to consider various factors. Elements like grid alignment, spacing, stroke size, padding, and object gaps are crucial for ensuring the icons look polished and refined.
 
 ![Icon Design Best Practices 2](/assets/img/2024-05-20-Thebestpracticesforicondesign_3.png)
 
 Comparison: 16X16 vs. 20X20
-```
-
 
 <div class="content-ad"></div>
 
@@ -66,7 +62,6 @@ Gap: 여기서 정의하는 갭은 두 개체가 만나거나 겹칠 때 최소 
 
 <div class="content-ad"></div>
 
-```markdown
 ![Icon](/assets/img/2024-05-20-Thebestpracticesforicondesign_5.png)
 
 Scaling
@@ -74,7 +69,6 @@ Scaling
 이 토론은 다양한 크기에 맞춰 아이콘의 크기를 효과적으로 확대하는 방법에 주로 초점을 맞춥니다. 예를 들어, 디자이너가 32x32 픽셀 아이콘을 만들라는 요청을 받았을 때, 따라야 하는 권장 접근 방식이 있습니다. 32x32 크기로 바로 시작하는 대신 시각 디자이너가 16x16 크기로 시작하는 것이 더 좋습니다.
 
 16x16 픽셀 그리드와 일치하여 아이콘을 작성하기 쉬워집니다. 디자인 프로세스를 간소화시키는 것뿐만 아니라 아이콘이 단위 간격 규칙 및 스트로크 크기 표준을 준수하는 것을 보장합니다.
-```
 
 <div class="content-ad"></div>
 

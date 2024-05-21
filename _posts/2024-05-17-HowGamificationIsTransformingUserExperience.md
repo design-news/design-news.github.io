@@ -3,15 +3,14 @@ title: "게임화가 사용자 경험을 변화시키는 방법"
 description: ""
 coverImage: "/assets/img/2024-05-17-HowGamificationIsTransformingUserExperience_0.png"
 date: 2024-05-17 22:12
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-17-HowGamificationIsTransformingUserExperience_0.png
 tag: Tech
 originalTitle: "How Gamification Is Transforming User Experience"
 link: "https://medium.com/@mohamedisskessioui/how-gamification-is-transforming-user-experience-eb6a5b9a064b"
 ---
 
-
-![Gamification Image](/assets/img/2024-05-17-HowGamificationIsTransformingUserExperience_0.png) 
+![Gamification Image](/assets/img/2024-05-17-HowGamificationIsTransformingUserExperience_0.png)
 
 모두가 한 번쯤은 그랬을 것입니다. 끝없는 메뉴 클릭, 혼란스러운 인터페이스와 그냥 포기하고 싶은 강렬한 욕구가 드는 순간들을 겪었습니다. 그런데 만일 디지털 공간을 탐험하는 것이 매력적이고 보상적인 재미있는 비디오 게임과 같았다면 어떨까요?
 
@@ -31,7 +30,6 @@ link: "https://medium.com/@mohamedisskessioui/how-gamification-is-transforming-u
 
 <div class="content-ad"></div>
 
-```markdown
 ![Screenshot](/assets/img/2024-05-17-HowGamificationIsTransformingUserExperience_1.png)
 
 일상적인 작업을 더 재미있고 보상적으로 만들기 위해 게임의 재미와 중독성 있는 요소를 적용하는 것으로 생각해보세요.
@@ -39,7 +37,6 @@ link: "https://medium.com/@mohamedisskessioui/how-gamification-is-transforming-u
 ## 게임화는 새로운 개념인가요?
 
 이제, "게임화? 그냥 어떤 것에 거리낌없는 뱃지를 붙이는 멋진 말일 뿐 아니지 않아?" 라고 생각할 수도 있습니다. 뱃지 추가가 전략의 일부가 될 수 있지만, 게임화는 꾸밈이 아닙니다. 인간 심리를 이해하고 게임 기법을 활용하여 더 매력적이고 보상적인 경험을 만들어내는 것입니다.
-```
 
 <div class="content-ad"></div>
 

@@ -3,13 +3,12 @@ title: "훌륭한 디자인에 대해 전화기가 말해주는 것"
 description: ""
 coverImage: "/assets/img/2024-05-20-Whattelephonescantellyouaboutgooddesign_0.png"
 date: 2024-05-20 23:34
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-20-Whattelephonescantellyouaboutgooddesign_0.png
 tag: Tech
 originalTitle: "What telephones can tell you about good design"
 link: "https://medium.com/user-experience-design-1/what-telephones-can-tell-you-about-good-design-6c24885ca7e9"
 ---
-
 
 ## 디자인
 
@@ -21,7 +20,6 @@ link: "https://medium.com/user-experience-design-1/what-telephones-can-tell-you-
 
 <div class="content-ad"></div>
 
-```markdown
 ![Whattelephonescantellyouaboutgooddesign](/assets/img/2024-05-20-Whattelephonescantellyouaboutgooddesign_1.png)
 
 1950년대의 벨 연구소에서 이야기가 시작됩니다. 연구자들은 회전 다이얼 대신에 버튼을 사용하여 사용자가 더 빠르고 정확하게 다이얼할 수 있는 방법을 찾고 있었습니다. 정확도를 높이면 잘못된 번호를 걸지 않을 가능성이 줄어들 것이라는 아이디어였고, 더 빨리 다이얼하면 연결 시간이 줄어들어 전화 교환소가 점점 많아지는 통화량을 처리하기가 더 쉬워질 것입니다.
@@ -29,7 +27,6 @@ link: "https://medium.com/user-experience-design-1/what-telephones-can-tell-you-
 이 2분짜리 영상은 배경 정보를 더 제공합니다:
 
 벨 연구소의 팀은 새로운 터치톤 전화의 키패드 레이아웃에 대해 여러 가지 가능한 배치를 테스트했습니다. 현대인들의 눈에는 대부분이 잘못되어 보입니다. 왜냐하면 우리는 제품에서 이긴 레이아웃에 익숙하기 때문입니다. 그러나 그 당시에는 이러한 대안이 모두 동등하게 유효한 것으로 여겨졌습니다.
-```  
 
 <div class="content-ad"></div>
 
@@ -71,6 +68,4 @@ link: "https://medium.com/user-experience-design-1/what-telephones-can-tell-you-
 
 <div class="content-ad"></div>
 
-```markdown
 ![Alt text](/assets/img/2024-05-20-Whattelephonescantellyouaboutgooddesign_3.png)
-```

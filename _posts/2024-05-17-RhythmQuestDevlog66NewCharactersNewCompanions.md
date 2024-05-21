@@ -3,13 +3,12 @@ title: "리듬 퀘스트 데브로그 66 - 새로운 캐릭터, 새로운 동료
 description: ""
 coverImage: "/assets/img/2024-05-17-RhythmQuestDevlog66NewCharactersNewCompanions_0.png"
 date: 2024-05-17 22:16
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-17-RhythmQuestDevlog66NewCharactersNewCompanions_0.png
 tag: Tech
 originalTitle: "Rhythm Quest Devlog 66 — New Characters, New Companions"
 link: "https://medium.com/@ddrkirbyisq/rhythm-quest-devlog-66-new-characters-new-companions-e46b43dc4d08"
 ---
-
 
 또 다른 달, 또 다른 개발일지입니다. 적어도 일관성은 있군요. 지금까지 8년 동안 그 일관성을 의지해왔는데 (정말 그렇게 오래된 걸까요!?), 이제 앞으로도 나를 이끌어줄 것이라고 희망합니다.
 
@@ -21,7 +20,6 @@ link: "https://medium.com/@ddrkirbyisq/rhythm-quest-devlog-66-new-characters-new
 
 <div class="content-ad"></div>
 
-```markdown
 ![image](https://miro.medium.com/v2/resize:fit:224/0*TM7X5GwfNjhykmfp.gif)
 
 우산을 추가했기 때문에 조금 더 복잡한 스프라이트 세트였습니다. 왼쪽에서 오른쪽으로 이동하는 것을 주의를 산만하게 하지 않으면서 어떤 곳에선 조그마한 서브픽셀 이동을 느끼게 하려고 했습니다. 포화도도 상당히 높여 색감이 더 다채로운 Rhythm Quest 세계에 잘 어울리도록 했습니다 (이 게임은 완전히 다른 미학을 가지고 있습니다).
@@ -29,7 +27,6 @@ link: "https://medium.com/@ddrkirbyisq/rhythm-quest-devlog-66-new-characters-new
 ![image](https://miro.medium.com/v2/resize:fit:236/0*cpceSlt6_sHL4Cdw.gif)
 
 점프 애니메이션은 꽤 간단했습니다. 왼쪽에서 오른쪽으로의 움직임을 제거하고 후드 운동을 일부 유지하려고 했습니다. 다른 캐릭터들 중에도 점프 시작할 때 움직임의 장면을 짧게 제공하는 잠시 숙이는 프레임이 있습니다.
-```
 
 <div class="content-ad"></div>
 
@@ -49,7 +46,6 @@ Flying도 마찬가지입니다. 날개 그래픽이 포함되어 있습니다.
 
 <div class="content-ad"></div>
 
-```markdown
 <img src="https://miro.medium.com/v2/resize:fit:1000/0*YrxGRyH67bRiS2dp.gif" />
 
 <img src="https://miro.medium.com/v2/resize:fit:162/0*zPodiaMrVR6gP92m.gif" />
@@ -57,7 +53,6 @@ Flying도 마찬가지입니다. 날개 그래픽이 포함되어 있습니다.
 ‘여자 아이’의 스프라이트세트에 또 다른 요소를 추가할 수도 있었지만, 그러면 너무 정적으로 느껴졌을 것 같아요. 이번에는 당신과 미야우미(meowmie) 사이에서 시각적인 차이를 주어, 조금 더 동행자처럼 당신을 따라다니는 느낌을 주고 싶었어요. 그 결과, 당신의 움직임을 따라다니고 일치시키는 동행자를 가질 수 있는 시스템을 만들었답니다:
 
 <img src="https://miro.medium.com/v2/resize:fit:1000/0*eGL7E4t_v-E-uQz1.gif" />
-```
 
 <div class="content-ad"></div>
 
@@ -111,7 +106,6 @@ Flying도 마찬가지입니다. 날개 그래픽이 포함되어 있습니다.
 
 <div class="content-ad"></div>
 
-```markdown
 ![이미지](https://miro.medium.com/v2/resize:fit:1000/0*j5PWgnPiNkW5W74r.gif)
 
 2번 시도에서는 약간 야구 투구 움직임을 추구하고 더 명확하게 만드려고 노력했습니다. 그녀의 머리가 더 이상 오른쪽으로 너무 앞으로 굽히지 않게 했으므로 머리로 대리더가 아니라고 보이지 않게끔 노력했습니다. 이것은 분명히 개선되었지만, 여전히 약간 이상하게 읽히고, 가까운 거리에서 투사체를 던지는 개념 전체가 이상하게 보였습니다. (또한, 그녀가 공을 이렇게 던질 수 있다면, 그녀가 왜 적들을 멀리서 공격할 수 없는지 알겠죠..??)
@@ -119,7 +113,6 @@ Flying도 마찬가지입니다. 날개 그래픽이 포함되어 있습니다.
 ![이미지](https://miro.medium.com/v2/resize:fit:546/0*4S8nAIRV9-vPz2y1.gif)
 
 ![이미지](https://miro.medium.com/v2/resize:fit:1000/0*4L6MVsB1Amx6vCec.gif)
-```
 
 <div class="content-ad"></div>
 

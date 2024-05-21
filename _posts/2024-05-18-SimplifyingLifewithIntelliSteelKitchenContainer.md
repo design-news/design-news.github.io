@@ -3,13 +3,12 @@ title: "인텔리스틸 주방 용기로 삶을 단순화하세요"
 description: ""
 coverImage: "/assets/img/2024-05-18-SimplifyingLifewithIntelliSteelKitchenContainer_0.png"
 date: 2024-05-18 22:51
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-18-SimplifyingLifewithIntelliSteelKitchenContainer_0.png
 tag: Tech
 originalTitle: "Simplifying Life with IntelliSteel Kitchen Container."
 link: "https://medium.com/@aishu.punyamurthy/smart-way-to-track-your-kitchen-inventory-611d02fbcf38"
 ---
-
 
 소개
 장을 갈 때 무엇을 살 지 항상 잊어버리시나요? 🤦‍♂️
@@ -63,10 +62,10 @@ link: "https://medium.com/@aishu.punyamurthy/smart-way-to-track-your-kitchen-inv
 
 <div class="content-ad"></div>
 
-```markdown
 ![Image](/assets/img/2024-05-18-SimplifyingLifewithIntelliSteelKitchenContainer_7.png)
 
 친구야, 전체 여정을 공유하도록 독려하기 위해 간단한 질문을 하였어요. 몇 가지 주제에 초점을 맞추기 위해 도움을 얻었죠:
+
 1. 부엌 재고 추적
 2. 개방형 부엌 캐비닛을 위한 자석 커튼
 3. 범용 조직함
@@ -74,7 +73,6 @@ link: "https://medium.com/@aishu.punyamurthy/smart-way-to-track-your-kitchen-inv
 이 중에서 "부엌 재고 추적"에 초점을 맞추기로 결정했어요. 인터뷰 중에 사용자들이 직접적으로 주요 주제와 관련이 없는 문제들에 직면하고 있는 걸 발견했어요. 하지만, 제 솔루션이 이러한 문제들도 해결할 수 있다고 믿어요. 상자 뒤쪽에 놓인 물품에 접근하는 문제나 뚜껑을 열지 않고서는 물건을 식별하는 문제 같은 것들이 제품의 물리적 설계를 재고하게 만들어요. 일상적인 부엌 관리에 관한 것이기 때문에 다른 주제들보다 중요하게 느껴졌어요.
 
 물리적 제품을 만들기 위해 "crazy 8"이라는 방법을 사용했어요. 처음에는 식료품 앱 사용, Alexa에서 목록 작성, 물리적 목록 유지하기와 같은 간단한 아이디어를 고민했어요. 그러나, crazy 8 방법을 다시 살펴보니 물리적 제품을 디자인하는 새롭고 흥미로운 아이디어가 떠올랐어요.
-```
 
 <div class="content-ad"></div>
 
@@ -89,7 +87,7 @@ link: "https://medium.com/@aishu.punyamurthy/smart-way-to-track-your-kitchen-inv
 <div class="content-ad"></div>
 
 3. 아이디어 프로토타입을 만든 후에는 제품과 그 뒤에 있는 개념을 칭찬해준 그룹원들과 논의했습니다. 하지만 그들은 두 가지 걱정을 표명했어요. 첫째, 무선 충전이 관련되어 있어 기능성에 대해 걱정했습니다. 둘째, 모든 주방용기를 교체하는 비용이 많이 들어서 모두에게 적합하지 않을 것이라는 우려가 있었어요.
-첫 번째 걱정에 대해서 인정하면서도, 무선 충전 문제를 해결할 기술적 역량이 부족했습니다. 그러나 두 번째 걱정에 대한 해결책을 제안했습니다. 기존 용기에 쉽게 적용할 수 있는 유사한 장치를 생성하고, 뚜껑에 센서를 부착하거나 상자의 바닥에 장치를 놓음으로써 주방을 스마트하게 만들 수 있을 거라고 제안했어요. 이렇게 하면 더 낮은 비용으로 주방을 스마트하게 만들 수 있습니다.
+   첫 번째 걱정에 대해서 인정하면서도, 무선 충전 문제를 해결할 기술적 역량이 부족했습니다. 그러나 두 번째 걱정에 대한 해결책을 제안했습니다. 기존 용기에 쉽게 적용할 수 있는 유사한 장치를 생성하고, 뚜껑에 센서를 부착하거나 상자의 바닥에 장치를 놓음으로써 주방을 스마트하게 만들 수 있을 거라고 제안했어요. 이렇게 하면 더 낮은 비용으로 주방을 스마트하게 만들 수 있습니다.
 
 💡 제품의 미래 전망
 

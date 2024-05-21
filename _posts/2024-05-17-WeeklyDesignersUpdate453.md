@@ -3,13 +3,12 @@ title: "주간 디자이너 업데이트 453"
 description: ""
 coverImage: "/assets/img/2024-05-17-WeeklyDesignersUpdate453_0.png"
 date: 2024-05-17 22:01
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-17-WeeklyDesignersUpdate453_0.png
 tag: Tech
 originalTitle: "Weekly Designers Update #453"
 link: "https://medium.com/muzli-design-inspiration/weekly-designers-update-453-1c61a67a3b03"
 ---
-
 
 ## 뮤즐리 디자인 영감 통해
 
@@ -51,7 +50,6 @@ Muzli의 이얄 드림
 
 <div class="content-ad"></div>
 
-```markdown
 ![image](/assets/img/2024-05-17-WeeklyDesignersUpdate453_3.png)
 
 .
@@ -59,7 +57,6 @@ Muzli의 이얄 드림
 ## Lost In Space | Loox
 
 ![image](/assets/img/2024-05-17-WeeklyDesignersUpdate453_4.png)
-```
 
 <div class="content-ad"></div>
 
@@ -107,13 +104,11 @@ Figma에 제품 콘텐츠를 가져와 실제 데이터로 디자인을 채워 �
 
 <div class="content-ad"></div>
 
-```markdown
 ![img](/assets/img/2024-05-17-WeeklyDesignersUpdate453_9.png)
 
 ## Bento Design System: Cards
 
 Trendy & practical handcrafted Bento Cards for your next projects
-```
 
 <div class="content-ad"></div>
 
@@ -127,7 +122,6 @@ JULES JOURNEY는 인공지능 아티스트, 사진작가 및 디자이너를 위
 
 <div class="content-ad"></div>
 
-```markdown
 ![이미지](/assets/img/2024-05-17-WeeklyDesignersUpdate453_11.png)
 
 .
@@ -135,11 +129,9 @@ JULES JOURNEY는 인공지능 아티스트, 사진작가 및 디자이너를 위
 ## Kliq — Marketplace Framer Template
 
 Kilq는 귀하의 마켓 플레이스를 시작하고 디지털 제품을 즉시 판매할 수 있도록 도와주는 다이내믹한 템플릿입니다.
-```
 
 <div class="content-ad"></div>
 
-```markdown
 ![이미지](/assets/img/2024-05-17-WeeklyDesignersUpdate453_12.png)
 
 추천 기사 — —
@@ -147,41 +139,30 @@ Kilq는 귀하의 마켓 플레이스를 시작하고 디지털 제품을 즉시
 # 디자인 영감
 
 ![이미지](/assets/img/2024-05-17-WeeklyDesignersUpdate453_13.png)
-```
 
 <div class="content-ad"></div>
 
-```markdown
 ![2024-05-17-WeeklyDesignersUpdate453_14.png](/assets/img/2024-05-17-WeeklyDesignersUpdate453_14.png)
 
 ![2024-05-17-WeeklyDesignersUpdate453_15.png](/assets/img/2024-05-17-WeeklyDesignersUpdate453_15.png)
-``` 
 
 <div class="content-ad"></div>
 
-```markdown
 ![image 1](/assets/img/2024-05-17-WeeklyDesignersUpdate453_16.png)
 ![image 2](/assets/img/2024-05-17-WeeklyDesignersUpdate453_17.png)
-```
 
 <div class="content-ad"></div>
 
-```markdown
 ![Weekly Designers Update 453_18](/assets/img/2024-05-17-WeeklyDesignersUpdate453_18.png)
 
 ![Weekly Designers Update 453_19](/assets/img/2024-05-17-WeeklyDesignersUpdate453_19.png)
-```
 
 <div class="content-ad"></div>
 
-```markdown
 ![Image 1](/assets/img/2024-05-17-WeeklyDesignersUpdate453_20.png)
 
 ![Image 2](/assets/img/2024-05-17-WeeklyDesignersUpdate453_21.png)
-```
 
 <div class="content-ad"></div>
 
-```markdown
 ![2024-05-17-WeeklyDesignersUpdate453_22](/assets/img/2024-05-17-WeeklyDesignersUpdate453_22.png)
-```

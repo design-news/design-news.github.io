@@ -3,21 +3,18 @@ title: "AI가 새로운 접근성 요구사항을 갖게 된 UX 디자이너로�
 description: ""
 coverImage: "/assets/img/2024-05-18-HowAIhelpedmeasaUXdesignerwithnewaccessibilityneeds_0.png"
 date: 2024-05-18 22:43
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-18-HowAIhelpedmeasaUXdesignerwithnewaccessibilityneeds_0.png
 tag: Tech
 originalTitle: "How AI helped me as a UX designer with new accessibility needs."
 link: "https://medium.com/kainosxd/how-ai-helped-me-as-a-ux-designer-with-new-accessibility-needs-5f1f2713f590"
 ---
 
-
-```
 ![Image](/assets/img/2024-05-18-HowAIhelpedmeasaUXdesignerwithnewaccessibilityneeds_0.png)
-```
 
 무슨 일이 있었나요?
 
-2023년 크리스마스 아침, 저는 심근경색을 일으켜 사망했습니다. 
+2023년 크리스마스 아침, 저는 심근경색을 일으켜 사망했습니다.
 
 이번이 두 번째 심근경색 사건이었지만, 처음으로 죽은 케이스네요.
 

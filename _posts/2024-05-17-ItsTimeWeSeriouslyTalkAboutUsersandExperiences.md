@@ -3,15 +3,13 @@ title: "지금은 진지하게 사용자와 경험에 대해 이야기할 때입
 description: ""
 coverImage: "/assets/img/2024-05-17-ItsTimeWeSeriouslyTalkAboutUsersandExperiences_0.png"
 date: 2024-05-17 22:13
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-17-ItsTimeWeSeriouslyTalkAboutUsersandExperiences_0.png
 tag: Tech
 originalTitle: "It’s Time We Seriously Talk About Users and Experiences"
 link: "https://medium.com/@jmspool/its-time-we-seriously-talk-about-users-and-experiences-f0de4daf9259"
 ---
 
-
-```markdown
 <img src="/assets/img/2024-05-17-ItsTimeWeSeriouslyTalkAboutUsersandExperiences_0.png" />
 
 이유를 알 수 없지만, UX 전문가들은 사용자나 경험에 대해 결코 이야기하지 않습니다. 이는 우리의 작업에 해를 끼칩니다.
@@ -19,7 +17,6 @@ link: "https://medium.com/@jmspool/its-time-we-seriously-talk-about-users-and-ex
 “하지만 나는 항상 내 사용자에 대해 이야기해.”
 
 확실히, 우리는 종종 “우리 사용자들은 최상의 사용자 경험을 받을 자격이 있다”고 말하지만, 그것이 부족한 것은 아니라고 생각합니다.
-```
 
 <div class="content-ad"></div>
 

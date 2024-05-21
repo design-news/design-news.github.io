@@ -3,13 +3,12 @@ title: "you dont사살해 게임은 도덕적 딜레마를 통해 감정적 서�
 description: ""
 coverImage: "/assets/img/2024-05-20-DoYouKillHowGamesCraftEmotionalNarrativesthroughMoralDilemmas_0.png"
 date: 2024-05-20 23:52
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-20-DoYouKillHowGamesCraftEmotionalNarrativesthroughMoralDilemmas_0.png
 tag: Tech
 originalTitle: "Do You Kill? How Games Craft Emotional Narratives through Moral Dilemmas"
 link: "https://medium.com/theuglymonster/do-you-kill-how-games-craft-emotional-narratives-through-moral-dilemmas-4f71c2ab7f9c"
 ---
-
 
 ## 게임 디자인 | 윤리
 
@@ -31,7 +30,6 @@ link: "https://medium.com/theuglymonster/do-you-kill-how-games-craft-emotional-n
 
 <div class="content-ad"></div>
 
-```
 ![이미지](/assets/img/2024-05-20-DoYouKillHowGamesCraftEmotionalNarrativesthroughMoralDilemmas_0.png)
 
 Detroit: Become Human은 감정 이입 및 시간 메카닉을 사용해 감정적 연결을 촉진하는 데 능란합니다. 그러나 저는 오히려 주인공과 더 공감하게 됩니다. 아마도 결과가 주인공에게 직접 영향을 미치기 때문에 안드로이드 vs 인간의 세계에 정말 몰입하게 되었고, Connor, Markus, 그리고 Kara가 행복한 결말을 맞이할 수 있기를 바래는 마음입니다.
@@ -39,7 +37,6 @@ Detroit: Become Human은 감정 이입 및 시간 메카닉을 사용해 감정�
 ![이미지](/assets/img/2024-05-20-DoYouKillHowGamesCraftEmotionalNarrativesthroughMoralDilemmas_1.png)
 
 # Good Cop, Bad Cop
-```  
 
 <div class="content-ad"></div>
 

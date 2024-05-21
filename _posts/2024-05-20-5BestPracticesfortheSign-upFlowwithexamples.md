@@ -3,13 +3,12 @@ title: "회원 가입 절차를 위한 5가지 최상의 실천 방법 예제 �
 description: ""
 coverImage: "/assets/img/2024-05-20-5BestPracticesfortheSign-upFlowwithexamples_0.png"
 date: 2024-05-20 23:30
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-20-5BestPracticesfortheSign-upFlowwithexamples_0.png
 tag: Tech
 originalTitle: "5 Best Practices for the Sign-up Flow (with examples!)"
 link: "https://medium.com/prototypr/5-best-practices-for-the-sign-up-flow-with-examples-f55832edc8a3"
 ---
-
 
 더 나은 가입 흐름을 디자인하는 방법은 무엇일까요? 최고의 실천 방법을 알아보겠습니다.
 
@@ -31,7 +30,6 @@ link: "https://medium.com/prototypr/5-best-practices-for-the-sign-up-flow-with-e
 
 <div class="content-ad"></div>
 
-```markdown
 <img src="/assets/img/2024-05-20-5BestPracticesfortheSign-upFlowwithexamples_3.png" />
 
 회원 가입 양식이 간단합니다. 이메일과 비밀번호만 요청합니다. 계정을 생성하는 데 필요하지 않은 다른 정보는 회원 가입이 완료된 이후의 미래의 온보딩 단계에서 요청할 수 있습니다.
@@ -39,11 +37,9 @@ link: "https://medium.com/prototypr/5-best-practices-for-the-sign-up-flow-with-e
 ## 예시
 
 <img src="/assets/img/2024-05-20-5BestPracticesfortheSign-upFlowwithexamples_4.png" />
-```
 
 <div class="content-ad"></div>
 
-```markdown
 ![Image 1](/assets/img/2024-05-20-5BestPracticesfortheSign-upFlowwithexamples_5.png)
 
 ## 2. Provide social login methods
@@ -51,7 +47,6 @@ link: "https://medium.com/prototypr/5-best-practices-for-the-sign-up-flow-with-e
 Social login methods make the sign-up process quicker and easier. When users sign up using social login, other essential information such as name and email can be retrieved automatically. Additionally, users will not need to create a password.
 
 ![Image 2](/assets/img/2024-05-20-5BestPracticesfortheSign-upFlowwithexamples_6.png)
-```
 
 <div class="content-ad"></div>
 
@@ -65,7 +60,6 @@ Social login methods make the sign-up process quicker and easier. When users sig
 
 <div class="content-ad"></div>
 
-```
 ![Image](/assets/img/2024-05-20-5BestPracticesfortheSign-upFlowwithexamples_8.png)
 
 ![Image](/assets/img/2024-05-20-5BestPracticesfortheSign-upFlowwithexamples_9.png)
@@ -73,7 +67,6 @@ Social login methods make the sign-up process quicker and easier. When users sig
 ## Examples
 
 ![Image](/assets/img/2024-05-20-5BestPracticesfortheSign-upFlowwithexamples_10.png)
-```
 
 <div class="content-ad"></div>
 
@@ -87,7 +80,6 @@ Social login methods make the sign-up process quicker and easier. When users sig
 
 <div class="content-ad"></div>
 
-```
 ![Image 1](/assets/img/2024-05-20-5BestPracticesfortheSign-upFlowwithexamples_13.png)
 
 # 5. Provide clear and specific error messages
@@ -95,11 +87,9 @@ Social login methods make the sign-up process quicker and easier. When users sig
 When a user enters something incorrectly in an input field or misses a required field, the error message should indicate where the error occurred and how to resolve it. Otherwise, the user has to guess which information was entered incorrectly and why it was wrong.
 
 ![Image 2](/assets/img/2024-05-20-5BestPracticesfortheSign-upFlowwithexamples_14.png)
-```
 
 <div class="content-ad"></div>
 
-```Markdown
 ![Image](/assets/img/2024-05-20-5BestPracticesfortheSign-upFlowwithexamples_15.png)
 
 If you found this article helpful, please follow us!
@@ -107,4 +97,3 @@ If you found this article helpful, please follow us!
 You can also connect with us on LinkedIn 👉 Anastasia and Vlad
 
 Cheers!
-```

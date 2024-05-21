@@ -3,13 +3,12 @@ title: "쉽게 사용할 수 있는 이지슬라이스 소개 주방에서 편�
 description: ""
 coverImage: "/assets/img/2024-05-18-MeetEasySliceYourShortcuttoKitchenComfort_0.png"
 date: 2024-05-18 22:53
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-18-MeetEasySliceYourShortcuttoKitchenComfort_0.png
 tag: Tech
 originalTitle: "Meet EasySlice: Your Shortcut to Kitchen Comfort! 👩🏻‍🌾"
 link: "https://medium.com/@saeetushar_86573/meet-easyslice-your-shortcut-to-kitchen-comfort-9906edac1888"
 ---
-
 
 # 1. EasySlice를 소개합니다
 
@@ -23,13 +22,11 @@ link: "https://medium.com/@saeetushar_86573/meet-easyslice-your-shortcut-to-kitc
 
 <div class="content-ad"></div>
 
-```markdown
 ![Meet EasySlice: Your New Kitchen Tool! Kitchen work can be tiring, especially standing for a long. But with EasySlice, chopping is easy and comfy!](/assets/img/2024-05-18-MeetEasySliceYourShortcuttoKitchenComfort_0.png)
 
 ![Meet EasySlice: Your New Kitchen Tool! Kitchen work can be tiring, especially standing for a long. But with EasySlice, chopping is easy and comfy!](/assets/img/2024-05-18-MeetEasySliceYourShortcuttoKitchenComfort_1.png)
 
 ![Meet EasySlice: Your New Kitchen Tool! Kitchen work can be tiring, especially standing for a long. But with EasySlice, chopping is easy and comfy!](/assets/img/2024-05-18-MeetEasySliceYourShortcuttoKitchenComfort_2.png)
-```
 
 <div class="content-ad"></div>
 

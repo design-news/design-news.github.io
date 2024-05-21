@@ -3,13 +3,12 @@ title: "주요 버튼은 어느 쪽에 위치시켜야 할까요"
 description: ""
 coverImage: "/assets/img/2024-05-18-Onwhichsidedoweputtheprimarybutton_0.png"
 date: 2024-05-18 22:39
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-18-Onwhichsidedoweputtheprimarybutton_0.png
 tag: Tech
 originalTitle: "On which side do we put the primary button?"
 link: "https://medium.com/user-experience-design-1/on-which-side-do-we-put-the-primary-button-c108a719e111"
 ---
-
 
 <img src="/assets/img/2024-05-18-Onwhichsidedoweputtheprimarybutton_0.png" />
 
@@ -90,7 +89,6 @@ Back — Next: 여기에서는 다음 버튼이 여행과 진행 방향에 배�
 
 <div class="content-ad"></div>
 
-```markdown
 ![Primary Button Placement](/assets/img/2024-05-18-Onwhichsidedoweputtheprimarybutton_6.png)
 
 이렇게 하면 주 버튼을 어느 쪽 (왼쪽 또는 오른쪽)에 놓을지 선택하는 문제가 해결될 것 같아요. 하지만 주 버튼을 양식에서 가장 마지막이자 가장 눈에 띄는 동작으로 놓는 디자인 시스템의 핵심 원칙에 어긋나게 될 거에요.
@@ -98,7 +96,6 @@ Back — Next: 여기에서는 다음 버튼이 여행과 진행 방향에 배�
 또한 버튼의 순서로 인한 일부 접근성 문제가 발생할 수 있을 거에요. WCAG에서는 “초점 순서” 섹션이 있는데, 사용자가 정보를 이동하는 방법과 콘텐츠의 컨텍스트와 일관성을 제공하는 지침에 초점이 맞춰져 있어요.
 
 # 최상의 실천 방법은 무엇인가요?
-```
 
 <div class="content-ad"></div>
 

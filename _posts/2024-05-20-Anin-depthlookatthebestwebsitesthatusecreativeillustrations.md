@@ -3,13 +3,12 @@ title: "창의적 일러스트레이션을 활용한 최고의 웹사이트들�
 description: ""
 coverImage: "/assets/img/2024-05-20-Anin-depthlookatthebestwebsitesthatusecreativeillustrations_0.png"
 date: 2024-05-20 23:50
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-20-Anin-depthlookatthebestwebsitesthatusecreativeillustrations_0.png
 tag: Tech
 originalTitle: "An in-depth look at the best websites that use creative illustrations."
 link: "https://medium.com/muzli-design-inspiration/an-in-depth-look-at-the-best-websites-that-use-creative-illustrations-97dd0708debd"
 ---
-
 
 넓은 디지털 랜드스케이프에서 무수히 많은 웹사이트가 주목을 끌기 위해 경쟁하는 가운데, 일러스트레이션의 사용은 관객을 사로잡고 참여시키는 강력한 도구로 부상했습니다. 장식적인 요소가 아닌 일러스트레이션은 이야기를 전달하는 중요한 매체로 작용하여 웹사이트에 개성, 감정 및 심도를 주입합니다. 본 기사에서는 웹 디자인에서 일러스트레이션의 변형적 역할을 탐구하며, 이 예술 형태를 능숙하게 활용하여 서술을 높이고 관객과 더 깊은 관계를 맺기 위해 최선을 다하고 있는 웹사이트의 예를 보여줍니다.
 
@@ -21,7 +20,6 @@ link: "https://medium.com/muzli-design-inspiration/an-in-depth-look-at-the-best-
 
 <div class="content-ad"></div>
 
-```
 ![Illustration](/assets/img/2024-05-20-Anin-depthlookatthebestwebsitesthatusecreativeillustrations_1.png)
 
 웹사이트에서 일러스트를 사용하면 참여율이 크게 향상되고 다양한 지표가 향상될 수 있습니다. 일러스트가 어떻게 변화를 줄 수 있는지 살펴보겠습니다:
@@ -29,11 +27,9 @@ link: "https://medium.com/muzli-design-inspiration/an-in-depth-look-at-the-best-
 ## 1. 시각적 매력 강화
 
 일러스트는 웹사이트를 더 매력적으로 만들 수 있는 독특한 시각 요소를 추가합니다. 일러스트는 스톡 사진과 달리 브랜드의 정체성과 메시지에 부합하도록 맞춤형으로 제작될 수 있어, 일관된 시각적으로 매력적인 경험을 창출합니다. 이는 사용자들이 시각적으로 매력적인 사이트를 탐험하고 더 오래 머무르게끔 하여 방문 시간을 연장하고 이탈률을 낮출 수 있습니다.
-```
 
 <div class="content-ad"></div>
 
-```markdown
 ![Image](/assets/img/2024-05-20-Anin-depthlookatthebestwebsitesthatusecreativeillustrations_2.png)
 
 ## 2. 향상된 사용자 경험
@@ -41,7 +37,6 @@ link: "https://medium.com/muzli-design-inspiration/an-in-depth-look-at-the-best-
 일러스트가 사용된 웹사이트는 복잡한 정보를 간단하게 풀어내어 사용자들에게 더 쉽게 이해할 수 있게 합니다. 예를 들어 인포그래픽은 데이터가 많은 콘텐츠를 흥미로운 시각적 이야기로 전환하여 사용자들이 정보를 더 쉽게 이해하고 기억할 수 있도록 돕습니다. 이로 인한 향상된 사용자 경험은 만족도가 높아지고 재방문할 가능성이 증가할 수 있습니다.
 
 ![Image](/assets/img/2024-05-20-Anin-depthlookatthebestwebsitesthatusecreativeillustrations_3.png)
-```
 
 <div class="content-ad"></div>
 
@@ -106,19 +101,19 @@ The Silly Bunny의 웹사이트는 사용자들을 환상적인 모험으로 인
 <div class="content-ad"></div>
 
 4. AI 기능을 활용한 제품을 소개하는 일러스트가 있는 프로모션 웹사이트입니다.
-이 웹사이트는 일러스트를 활용하여 AI 기술을 인간적이고 간단하게 표현하여 친근하고 접근성 있는 도구로 제시합니다. 시각적 설명은 AI에 대한 미신과 불안을 걷어내어 그 이점을 유쾌하고 긍정적인 방식으로 보여줍니다.
+   이 웹사이트는 일러스트를 활용하여 AI 기술을 인간적이고 간단하게 표현하여 친근하고 접근성 있는 도구로 제시합니다. 시각적 설명은 AI에 대한 미신과 불안을 걷어내어 그 이점을 유쾌하고 긍정적인 방식으로 보여줍니다.
 
 ![이미지](https://miro.medium.com/v2/resize:fit:1400/1*Lv_eFD_TERqjI5ezKX0nfA.gif)
 
 5. 일러스트가 있는 Kukwo 웹사이트 - 이동 중에 비픽션 책의 핵심을 이해할 수 있는 앱을 홍보합니다.
-이 웹사이트의 맞춤 일러스트와 애니메이션은 앱의 주요 기능과 이점을 쉽게 이해할 수 있게 해줍니다.
+   이 웹사이트의 맞춤 일러스트와 애니메이션은 앱의 주요 기능과 이점을 쉽게 이해할 수 있게 해줍니다.
 
 ![이미지](https://miro.medium.com/v2/resize:fit:1400/1*we13MCxhSkPn0Vqd1X1Yaw.gif)
 
 <div class="content-ad"></div>
 
 6. Joint Base - 그림이 있는 벤처 웹사이트.
-이 웹사이트에 있는 간단한 삽화들은 정보를 시각적으로 지원하는 데 큰 역할을 합니다. 그로 인해 브랜드가 관객과 더 가까워지게 됩니다.
+   이 웹사이트에 있는 간단한 삽화들은 정보를 시각적으로 지원하는 데 큰 역할을 합니다. 그로 인해 브랜드가 관객과 더 가까워지게 됩니다.
 
 # 결론 - 웹사이트를 위한 일러스트레이션의 역할
 

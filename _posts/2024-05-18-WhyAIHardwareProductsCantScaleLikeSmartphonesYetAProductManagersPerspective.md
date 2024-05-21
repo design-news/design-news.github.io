@@ -3,13 +3,12 @@ title: "AI 하드웨어 제품이 아직 스마트폰처럼 확장되지 못하�
 description: ""
 coverImage: "/assets/img/2024-05-18-WhyAIHardwareProductsCantScaleLikeSmartphonesYetAProductManagersPerspective_0.png"
 date: 2024-05-18 22:48
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-18-WhyAIHardwareProductsCantScaleLikeSmartphonesYetAProductManagersPerspective_0.png
 tag: Tech
 originalTitle: "Why AI Hardware Products Can’t Scale Like Smartphones (Yet): A Product Manager’s Perspective"
 link: "https://medium.com/@this.sudheer/why-ai-hardware-products-cant-scale-like-smartphones-yet-a-product-manager-s-perspective-6a79ee720f71"
 ---
-
 
 요즘에는 RabbitAI, HumanePin, Ray-Ban Meta Glasses 같은 AI 하드웨어 제품들이 우리의 기술 상호작용을 혁신하겠다고 약속하고 있어요. 이런 혁신적인 기능들이 있음에도 불구하고, 이 제품들은 스마트폰의 보편성과 기능성을 따라잡기 어려워하죠. 제품 관리자를 꿈꾸는 저는 이 AI 가전제품들이 왜 아직 스마트폰만큼 규모 확장이 어려운지 탐구하고, 그에 대한 전략이 무엇인지 알아보고 싶어해요.
 
@@ -31,7 +30,6 @@ RabbitAI는 2020년에 5,000대를 판매하여 2024년에 25,000대로 꾸준�
 
 <div class="content-ad"></div>
 
-```markdown
 ![Image](/assets/img/2024-05-18-WhyAIHardwareProductsCantScaleLikeSmartphonesYetAProductManagersPerspective_1.png)
 
 RabbitAI의 시장 점유율이 약간 감소했고, HumanePin의 점유율은 상당히 증가하여 강력한 시장 전략과 소비자 수용을 나타냈습니다. Ray-Ban Meta Glasses는 정점을 보았지만 초기 성공을 유지하지 못했습니다.
@@ -39,7 +37,6 @@ RabbitAI의 시장 점유율이 약간 감소했고, HumanePin의 점유율은 �
 소비자들이 망설이는 이유
 
 정직하게 이야기해 봅시다. 왜 누구나 추가로 199달러의 RabbitAI나 699달러의 HumanePin을 구매하려고 할까요, 특히 이 기기들이 그들의 스마트폰에 크게 의존하는 경우에 말이죠? 많은 소비자들이 망설이는 이유는 다음과 같습니다:
-```
 
 <div class="content-ad"></div>
 

@@ -3,13 +3,12 @@ title: "기업용 제품을 위한 디자인 시스템 구축하기"
 description: ""
 coverImage: "/assets/img/2024-05-20-BuildingDesignSystemForEnterpriseProducts_0.png"
 date: 2024-05-20 23:37
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-20-BuildingDesignSystemForEnterpriseProducts_0.png
 tag: Tech
 originalTitle: "Building Design System For Enterprise Products"
 link: "https://medium.com/@as671211/a-quick-guide-on-creating-a-design-system-b8dc60d8d0d2"
 ---
-
 
 # 엔터프라이즈 제품의 디자인 시스템을 처음부터 설계한 경험
 
@@ -67,6 +66,7 @@ link: "https://medium.com/@as671211/a-quick-guide-on-creating-a-design-system-b8
 ## 친절한 톤으로 번역:
 
 버튼
+
 - 네비게이션
 - 양식
 - 테이블
@@ -122,7 +122,6 @@ link: "https://medium.com/@as671211/a-quick-guide-on-creating-a-design-system-b8
 
 <div class="content-ad"></div>
 
-```markdown
 ![Building Design System Image 4](/assets/img/2024-05-20-BuildingDesignSystemForEnterpriseProducts_4.png)
 
 ![Building Design System Image 5](/assets/img/2024-05-20-BuildingDesignSystemForEnterpriseProducts_5.png)
@@ -130,7 +129,6 @@ link: "https://medium.com/@as671211/a-quick-guide-on-creating-a-design-system-b8
 ![Building Design System Image 6](/assets/img/2024-05-20-BuildingDesignSystemForEnterpriseProducts_6.png)
 
 ![Building Design System Image 7](/assets/img/2024-05-20-BuildingDesignSystemForEnterpriseProducts_7.png)
-```
 
 <div class="content-ad"></div>
 
@@ -144,7 +142,6 @@ link: "https://medium.com/@as671211/a-quick-guide-on-creating-a-design-system-b8
 
 <div class="content-ad"></div>
 
-```markdown
 ![image](/assets/img/2024-05-20-BuildingDesignSystemForEnterpriseProducts_12.png)
 
 ## 뷰 정의하기 (화면, 페이지, 구성물)
@@ -152,11 +149,9 @@ link: "https://medium.com/@as671211/a-quick-guide-on-creating-a-design-system-b8
 디자인 요소와 구성 요소를 정의한 후, 이러한 요소들을 결합하여 뷰를 만들 수 있습니다.
 
 ![image](/assets/img/2024-05-20-BuildingDesignSystemForEnterpriseProducts_13.png)
-```
 
 <div class="content-ad"></div>
 
-```
 ![이미지](/assets/img/2024-05-20-BuildingDesignSystemForEnterpriseProducts_14.png)
 
 ![이미지](/assets/img/2024-05-20-BuildingDesignSystemForEnterpriseProducts_15.png)
@@ -164,7 +159,6 @@ link: "https://medium.com/@as671211/a-quick-guide-on-creating-a-design-system-b8
 # 모션 디자인:
 
 이 단계에서는 모든 상호 작용하는 구성 요소에 UI 모션을 추가합니다. 배지나 인디케이터와 같은 비 상호 작용형 구성 요소는 모션을 필요로하지 않을 수 있지만 아코디언, 드롭다운, 툴팁 등과 같은 상호 작용하는 구성 요소에는 모션이 필요합니다. 우리는 구성 요소에 대한 애니메이션을 만들 수 있도록 도와주는 토큰들로 잘 정의된 모션 시스템을 갖고 있습니다. 다음 항목들이 디자인되는 단계입니다:
-```
 
 <div class="content-ad"></div>
 

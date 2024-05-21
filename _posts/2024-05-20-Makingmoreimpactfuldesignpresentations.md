@@ -3,13 +3,12 @@ title: "더 많은 영향력 있는 디자인 프레젠테이션 만들기"
 description: ""
 coverImage: "/assets/img/2024-05-20-Makingmoreimpactfuldesignpresentations_0.png"
 date: 2024-05-20 23:42
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-20-Makingmoreimpactfuldesignpresentations_0.png
 tag: Tech
 originalTitle: "Making more impactful design presentations"
 link: "https://medium.com/user-experience-design-1/making-more-impactful-design-presentations-86ee58d02520"
 ---
-
 
 "음... 음... 그치... 이렇게 말하는 거죠…"
 
@@ -95,7 +94,7 @@ link: "https://medium.com/user-experience-design-1/making-more-impactful-design-
 
 <div class="content-ad"></div>
 
-제가 제시한 것들처럼 구체적으로 해야 할 필요는 없어요: 
+제가 제시한 것들처럼 구체적으로 해야 할 필요는 없어요:
 
 - 왜 작동하지 않는 걸까요?
 - 해결할 가치가 있는 걸까요?
@@ -151,7 +150,6 @@ link: "https://medium.com/user-experience-design-1/making-more-impactful-design-
 
 <div class="content-ad"></div>
 
-```markdown
 ![2024-05-20-Makingmoreimpactfuldesignpresentations_1](/assets/img/2024-05-20-Makingmoreimpactfuldesignpresentations_1.png)
 
 “Stripes”(1981) 라는 영화에서 나온 원래 문구입니다. 전 이 영화를 보진 않았지만, 이 문구가 캐릭터 Ox가 군대에 합류할 때라고 알고 있어요.
@@ -159,7 +157,6 @@ link: "https://medium.com/user-experience-design-1/making-more-impactful-design-
 내가 찾은 영상의 맥락과 문구 자체로 미루어보면, 변화, 자기 개선, 더 좋은 것에 대한 어감이 있습니다. Apple이 만들어낸 버전은 언어적으로 맞을 뿐만 아니라 아이디어와 개념적으로도 어울립니다. M2와 비교했을 때, 이것은 다음 레벨의 게임 체인저처럼 느껴질 거에요.
 
 나는 “Lean. Mean. M3 Machine.”이라는 문구로 만족할 것 같아요.
-```
 
 <div class="content-ad"></div>
 

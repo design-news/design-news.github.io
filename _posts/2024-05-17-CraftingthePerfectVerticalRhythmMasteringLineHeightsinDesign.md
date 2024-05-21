@@ -3,13 +3,12 @@ title: "디자인에서 줄 높이를 마스터하는 완벽한 수직 리듬 �
 description: ""
 coverImage: "/assets/img/2024-05-17-CraftingthePerfectVerticalRhythmMasteringLineHeightsinDesign_0.png"
 date: 2024-05-17 22:09
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-17-CraftingthePerfectVerticalRhythmMasteringLineHeightsinDesign_0.png
 tag: Tech
 originalTitle: "Crafting the Perfect Vertical Rhythm: Mastering Line Heights in Design"
 link: "https://medium.com/@sakila.work/crafting-the-perfect-vertical-rhythm-mastering-line-heights-in-design-d33461ec8349"
 ---
-
 
 ## 문장 주변에 최적의 여백량은 무엇인가요?
 
@@ -51,7 +50,6 @@ link: "https://medium.com/@sakila.work/crafting-the-perfect-vertical-rhythm-mast
 
 <div class="content-ad"></div>
 
-```markdown
 ![CraftingthePerfectVerticalRhythmMasteringLineHeightsinDesign_5](/assets/img/2024-05-17-CraftingthePerfectVerticalRhythmMasteringLineHeightsinDesign_5.png)
 
 3. 아이콘과 함께 텍스트가 있는 경우, 행 높이를 아이콘 크기에 근접하게 맞추세요. 예를 들어, 40px 아이콘이 포함된 버튼 옆에 24px 글꼴 크기의 텍스트가 있는 경우, 24px 글꼴의 행 높이를 40px 아이콘과 일치시키려고 노력합니다. 이는 글꼴 크기를 픽셀 값으로 고정하는 유일한 경우입니다.
@@ -59,7 +57,6 @@ link: "https://medium.com/@sakila.work/crafting-the-perfect-vertical-rhythm-mast
 ![CraftingthePerfectVerticalRhythmMasteringLineHeightsinDesign_6](/assets/img/2024-05-17-CraftingthePerfectVerticalRhythmMasteringLineHeightsinDesign_6.png)
 
 또한, 난독증을 가진 사람들은 행 간격을 증가시킴으로써 가독성을 향상시킬 수 있습니다. 이 이상적인 간격은 단어 사이 간격에 비례하는 것이 좋으며, 선호되는 비율은 1.5 또는 150%입니다. 글꼴 크기와 행 높이가 난독증을 가진 사람들에게 어떻게 영향을 미치는지에 대한 자세한 정보는 '난독증 친화적 스타일 가이드'를 참고하시기 바랍니다.
-```
 
 <div class="content-ad"></div>
 

@@ -3,13 +3,12 @@ title: "독특한 예술 스타일로 일관된 일러스트레이션 시리즈 
 description: ""
 coverImage: "/assets/img/2024-05-17-Generateaseriesofconsistentillustrationsinuniqueartstyles_0.png"
 date: 2024-05-17 22:06
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-17-Generateaseriesofconsistentillustrationsinuniqueartstyles_0.png
 tag: Tech
 originalTitle: "Generate a series of consistent illustrations in unique art styles"
 link: "https://medium.com/@icons8/generate-a-series-of-consistent-illustrations-in-unique-art-styles-9351bc6e9153"
 ---
-
 
 ![illustration generator](/assets/img/2024-05-17-Generateaseriesofconsistentillustrationsinuniqueartstyles_0.png)
 
@@ -53,9 +52,7 @@ Icons8 Ouch! 뒤의 예술가 및 엔지니어 팀은 예술과 기술을 접목
 
 <div class="content-ad"></div>
 
-```markdown
 ![2024-05-17-Generateaseriesofconsistentillustrationsinuniqueartstyles_3.png](/assets/img/2024-05-17-Generateaseriesofconsistentillustrationsinuniqueartstyles_3.png)
-```
 
 ## 배경 옵션
 
@@ -63,7 +60,6 @@ Icons8 Ouch! 뒤의 예술가 및 엔지니어 팀은 예술과 기술을 접목
 
 <div class="content-ad"></div>
 
-```
 ![Image](/assets/img/2024-05-17-Generateaseriesofconsistentillustrationsinuniqueartstyles_4.png)
 
 ## 다양한 종횡비
@@ -71,7 +67,6 @@ Icons8 Ouch! 뒤의 예술가 및 엔지니어 팀은 예술과 기술을 접목
 사각형은 잊어버려. 필요한 종횡비를 선택해봐.
 
 ![Image](/assets/img/2024-05-17-Generateaseriesofconsistentillustrationsinuniqueartstyles_5.png)
-```
 
 <div class="content-ad"></div>
 

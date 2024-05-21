@@ -40,11 +40,7 @@ link: "https://medium.com/user-experience-design-1/why-i-was-wrong-about-sparkle
 
 Zoom
 
-```
-
 v class="content-ad"></div>
-
-```
 
 ![image](/assets/img/2024-05-16-WhyIwaswrongaboutsparkles_3.png)
 
@@ -53,8 +49,6 @@ v class="content-ad"></div>
 mage](/assets/img/2024-05-16-WhyIwaswrongaboutsparkles_4.png)
 
 ## ChatGPT
-
-```
 
 <div class="content-ad"></div>
 
@@ -88,8 +82,6 @@ I를 상징하는 방법
 
 <div class="content-ad"></div>
 
-```
-
 ![Sparkles](/assets/img/2024-05-16-WhyIwaswrongaboutsparkles_8.png)
 
 은 이미 AI 기능을 표현하는 인기 있는 방법이며, 그것은 변경될 가능성이 거의 없습니다. 따라서 이 문제에 대한 해결책은 AI와 동의어가 되는 새로운 기호나 이모티콘을 만드는 것이 아니라, 우리는 반짝임을 받아들여야 합니다. 그러나 그에 대한 주의사항은 AI가 마법이 아님을 이해해야 합니다.
@@ -97,7 +89,3 @@ I를 상징하는 방법
 반짝임이 시간이 흐름에 따라 인기를 얻은 것처럼, AI가 무엇을 할 수 있는지 그리고 할 수 없는지에 대한 이해력도 늘어날 것입니다. 더 많은 사람들이 AI를 사용함에 따라, 더 많은 사람들이 기술이 액세스하는 데이터로 제한되었을 수도 있는 불완전하거나 부정확한 자료에 의하여 제한된다는 것을 깨닫게 될 것입니다. 만약 사람들이 마법이 엄격한 규칙을 가지고 있는 더 어려운 환경들의 규칙을 배울 수 있다면, 사람들은 AI의 한계를 배울 수 있을 것입니다.
 
 물론 이 반짝이는 새로운 기술에 여전히 매우 감명을 받을 것입니다. ✨
-
-```
-
-```

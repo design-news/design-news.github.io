@@ -3,19 +3,18 @@ title: "독특하게 파괴되고 대담하게 재탄생된 노던 블록의 최
 description: ""
 coverImage: "/assets/img/2024-05-20-UniquelyDestroyedandBoldlyRe-madeMynor-BTheLatestTypefacefromTheNorthernBlock_0.png"
 date: 2024-05-20 23:45
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-20-UniquelyDestroyedandBoldlyRe-madeMynor-BTheLatestTypefacefromTheNorthernBlock_0.png
 tag: Tech
 originalTitle: "Uniquely Destroyed and Boldly Re-made: Mynor-B, The Latest Typeface from The Northern Block."
 link: "https://medium.com/@northernblock/uniquely-destroyed-and-boldly-re-made-mynor-b-the-latest-typeface-from-the-northern-block-e86da341be7c"
 ---
 
-
 <img src="/assets/img/2024-05-20-UniquelyDestroyedandBoldlyRe-madeMynor-BTheLatestTypefacefromTheNorthernBlock_0.png" />
 
 미노르-B 글꼴은 1950년대의 영감을 받은 기하학적 글꼴을 문자 그대로 찢어버린 후 일본 재즈에 영감을 받은 수술을 적용하는 작업이라고 상상하긴 어렵겠죠. 하지만 그것이 정확히 일어난 일입니다. 결과적으로 Mynor-B 글꼴 안에 찾아볼 수 있는 다양성과 개성은 놀라운 것이 아닐 수 없습니다.
 
-이곳에서는 여러 영향이 꼬리를 물고 있습니다. 대 북쪽 석탄 분야부터 일본 공예 예술, 우주의 가장자리까지. 그 이름 자체가 먼 외계 행성이나 토성의 링 사이를 도는 작은 달을 떠올리게 합니다. 미노르-B의 이야기는 지금 이곳으로 여행하며 이 모든 세계를 탐험하고 거주해 왔습니다. 
+이곳에서는 여러 영향이 꼬리를 물고 있습니다. 대 북쪽 석탄 분야부터 일본 공예 예술, 우주의 가장자리까지. 그 이름 자체가 먼 외계 행성이나 토성의 링 사이를 도는 작은 달을 떠올리게 합니다. 미노르-B의 이야기는 지금 이곳으로 여행하며 이 모든 세계를 탐험하고 거주해 왔습니다.
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*wXq0u1lHZKexrUnixQrXDA.gif" />
 
@@ -31,7 +30,6 @@ Mynor는 조립되었다가 분해되었습니다. 그 글자 형태들은 종�
 
 <div class="content-ad"></div>
 
-```markdown
 ![Image](/assets/img/2024-05-20-UniquelyDestroyedandBoldlyRe-madeMynor-BTheLatestTypefacefromTheNorthernBlock_2.png)
 
 Once the letterforms had been broken down with deliberate irrationality, what came next in Jonathan’s process was something akin to the Japanese art of Kintsugi, which involves repairing broken pottery with precious metals like gold.
@@ -39,7 +37,6 @@ Once the letterforms had been broken down with deliberate irrationality, what ca
 This philosophy inspired Mynor-B’s departure from the strict geometric style of its predecessor, towards a more organic and imperfect design approach. Additionally, a desire to create a more humanist, expressive, and readable typeface, particularly in longer text passages, guided the development of Mynor-B.
 
 ![GIF](https://miro.medium.com/v2/resize:fit:1400/1*juvCsFoJq9efMeqDr8E1sQ.gif)
-```  
 
 <div class="content-ad"></div>
 
