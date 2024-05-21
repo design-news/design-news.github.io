@@ -3,13 +3,12 @@ title: "당신이 죽기 전에 꼭 읽어야 할 7권의 어린이 도서"
 description: ""
 coverImage: "/assets/img/2024-05-18-7ChildrensBooksToReadBeforeYouDie_0.png"
 date: 2024-05-18 22:55
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-18-7ChildrensBooksToReadBeforeYouDie_0.png
 tag: Tech
 originalTitle: "7 Children’s Books To Read Before You Die"
 link: "https://medium.com/@ritagomes97494/7-childrens-books-to-read-before-you-die-aa0d31edae2e"
 ---
-
 
 당신의 목록은 무엇인가요?
 
@@ -35,7 +34,7 @@ link: "https://medium.com/@ritagomes97494/7-childrens-books-to-read-before-you-d
 
 ## 2. The Unicorn That Said NO, by Marc-Uwe Kling
 
-마크-우베 클링 저의 <The Unicorn That Said NO>는 독립과 "아니요"를 말함의 힘 같은 주제를 탐구하는 신비하고 유머러스한 이야기입니다.
+마크-우베 클링 저의 The Unicorn That Said NO는 독립과 "아니요"를 말함의 힘 같은 주제를 탐구하는 신비하고 유머러스한 이야기입니다.
 
 어느 마법의 땅에 살고 있는 어린 유니콘은 모두가 항상 모든 것에 "예"라고 말하는 곳에서 살고 있습니다. 그러나 어린 유니콘은 끝없는 "예"에 불편함을 느끼고 다른 방법을 시도하기로 결심합니다. 어느 날, 무언가를 하라는 요청을 받았을 때, 유니콘은 단호하게 "아니요"라고 말하며 주변 모두를 놀라게 하고 유니콘 커뮤니티에 소동이 일어나게 합니다.
 
@@ -101,7 +100,7 @@ P.S. 틴틴은 집을 떠나지 않고 여행할 수 있게 해줍니다.
 
 <div class="content-ad"></div>
 
-내가 가장 좋아하는 아동 도서는 "해리 포터" 시리즈와 "어린 왕자"입니다. 너도 좋아할 거 같아! 
+내가 가장 좋아하는 아동 도서는 "해리 포터" 시리즈와 "어린 왕자"입니다. 너도 좋아할 거 같아!
 
 본문이 마음에 드셨다면 갈채 👏 해 주시거나 피드백 ✒️ 남겨주세요. 앞으로 올라올 다음 글도 기대해 주세요.
 

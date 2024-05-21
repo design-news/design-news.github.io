@@ -40,7 +40,7 @@ link: "https://medium.com/user-experience-design-1/why-i-was-wrong-about-sparkle
 
 Zoom
 
-v class="content-ad"></div>
+<div class="content-ad"></div>
 
 ![image](/assets/img/2024-05-16-WhyIwaswrongaboutsparkles_3.png)
 
