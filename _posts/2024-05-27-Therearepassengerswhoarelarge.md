@@ -3,13 +3,12 @@ title: "대형 승객들이 있어요"
 description: ""
 coverImage: "/assets/img/2024-05-27-Therearepassengerswhoarelarge_0.png"
 date: 2024-05-27 19:32
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-Therearepassengerswhoarelarge_0.png
 tag: Tech
 originalTitle: "There are passengers who are large"
 link: "https://medium.com/user-experience-design-1/there-are-passengers-who-are-large-d0f8a8dd3008"
 ---
-
 
 ![이미지](/assets/img/2024-05-27-Therearepassengerswhoarelarge_0.png)
 
@@ -18,7 +17,6 @@ link: "https://medium.com/user-experience-design-1/there-are-passengers-who-are-
 스페인의 또 다른 중요한 점은 그 UX가 가끔... 익숙해지는 게 필요하다는 거죠. 이것 혹은 저것 버튼이 언제 다음 일을 하게 될지 알 수 없어요:
 
 a) 전혀 작동하지 않을지
-
 
 <div class="content-ad"></div>
 
@@ -34,7 +32,7 @@ b) 예상대로 작동합니다.
 
 내가 알아. 내 파트너가 폴란드 출신이라고 하면, 사람들은 즉시 "쿠르바"라고 말하며 그들의 심오한 다국어 능력을 자랑합니다. 사람들은 외국어에서 성인용어를 더 편안하게 사용하는 것 같거나 노래 가사의 "적절성"을 이해하지 못하는 경우도 있습니다.
 
-나에게는 서면 텍스트에서 영어 악담이 특히 불쾌하게 보입니다. 예를 들어, 어떤 h**** 버거나 s*** 치즈케이크는 어떠세요?
+나에게는 서면 텍스트에서 영어 악담이 특히 불쾌하게 보입니다. 예를 들어, 어떤 h\***_ 버거나 s_** 치즈케이크는 어떠세요?
 
 ![이미지](/assets/img/2024-05-27-Therearepassengerswhoarelarge_1.png)
 
@@ -63,13 +61,11 @@ b) 예상대로 작동합니다.
 
 아래는 해당 테이블의 마크다운 형식입니다.
 
-```markdown
-| Header 1     | Header 2 | Header 3 |
-| ------------- | -------- | -------- |
+| Header 1     | Header 2     | Header 3     |
+| ------------ | ------------ | ------------ |
 | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
-```
 
 <div class="content-ad"></div>
 
@@ -96,6 +92,7 @@ b) 예상대로 작동합니다.
 어쨌든, "큰 승객"이라는 표현 때문에 제 마음이 뛰었어요.
 
 교훈:
+
 - 명확하고 명확한 용어가 모호한 언어보다 낫습니다.
 - 다른 언어로 된 텍스트 줄이 한 줄에 맞을지 확인할 수 있는 로컬라이제이션 도구가 있다면 사용하는 것을 잊지 마세요.
 
@@ -147,7 +144,7 @@ P.S. 고양이와 제 파트너는 그 후에 괜찮았어요.
 
 ![그림](/assets/img/2024-05-27-Therearepassengerswhoarelarge_7.png)
 
-와! 우리가 육지에 도착했어요! 좀 더 정확하게 말하면, 바르셀로나에요. 
+와! 우리가 육지에 도착했어요! 좀 더 정확하게 말하면, 바르셀로나에요.
 
 피카소 박물관에 가기가 정말 어려워요. 줄 때문이 있지만 티켓을 사는 게 어려워서요. 위에 있는 스크린샷으로 바쁜 시간대 기능에 문제가 있는 이유를 설명하고 있어요. 아이콘이 바쁜 정도를 나타내는데 혼란스러워요.
 

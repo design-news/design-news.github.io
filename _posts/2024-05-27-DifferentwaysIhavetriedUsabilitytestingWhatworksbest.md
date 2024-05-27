@@ -3,15 +3,13 @@ title: "내가 시도해 본 다양한 방법으로 사용성 테스트해 본 �
 description: ""
 coverImage: "/assets/img/2024-05-27-DifferentwaysIhavetriedUsabilitytestingWhatworksbest_0.png"
 date: 2024-05-27 19:46
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-DifferentwaysIhavetriedUsabilitytestingWhatworksbest_0.png
 tag: Tech
 originalTitle: "Different ways I have tried Usability testing: What works best?"
 link: "https://medium.com/@narenparashar/different-ways-i-have-tried-usability-testing-what-works-best-0474d5d64c79"
 ---
 
-
-```markdown
 <img src="/assets/img/2024-05-27-DifferentwaysIhavetriedUsabilitytestingWhatworksbest_0.png" />
 
 - 디자인을 하는 사람으로서, 여러 가지 변형을 만들어내어 사람들 앞에 놓고 그것들이 직접 만든 개념 디자인에 대한 대화를 촉발할 수 있도록 하는 것을 좋아합니다.
@@ -20,7 +18,6 @@ link: "https://medium.com/@narenparashar/different-ways-i-have-tried-usability-t
 ## 접근 방식-1: 디자인을 그냥 사람들 앞에 올려놓기
 
 <img src="/assets/img/2024-05-27-DifferentwaysIhavetriedUsabilitytestingWhatworksbest_1.png" />
-```
 
 <div class="content-ad"></div>
 

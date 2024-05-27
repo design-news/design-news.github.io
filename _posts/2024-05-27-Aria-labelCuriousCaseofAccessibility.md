@@ -3,13 +3,12 @@ title: "접근성에 대한 호기심 깊은 사례"
 description: ""
 coverImage: "/assets/img/2024-05-27-Aria-labelCuriousCaseofAccessibility_0.png"
 date: 2024-05-27 19:30
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-Aria-labelCuriousCaseofAccessibility_0.png
 tag: Tech
 originalTitle: "Aria-label: Curious Case of Accessibility"
 link: "https://medium.com/@inigovignesh/aria-label-curious-case-of-accessibility-22c46d6b3def"
 ---
-
 
 아리아 레이블에 대해 들어보셨나요?
 저는 그 사건이 일어날 때까지 들어본 적이 없었어요...
@@ -67,14 +66,21 @@ OneDrive의 목록보기에서는 한 열에 두 줄의 데이터가 있었습�
 하지만 작업은 아직 끝나지 않았습니다. 즉시 코드를 다시 확인하고 같은 문장이 aria-label 옆에 화면 판독기에 읽힌 것을 발견했습니다.
 
 ```js
-<button role="link" class="nameCellBottom_f2481133" aria-label="위치: 내 파일" data-actions="[{&quot;key&quot;:&quot;item-open-location&quot;}]" data-is-focusable="true">내 파일</button>
+<button
+  role="link"
+  class="nameCellBottom_f2481133"
+  aria-label="위치: 내 파일"
+  data-actions='[{"key":"item-open-location"}]'
+  data-is-focusable="true"
+>
+  내 파일
+</button>
 ```
 
 그 순간 나를 깨우치게 한 것은 제 유레카 순간이었습니다. 빠르게 aria-label에 대해 온라인으로 검색하고 내 우승 주장을 초안으로 작성하기 시작했습니다 🤟
 
 <div class="content-ad"></div>
 
-```markdown
 ![image](https://miro.medium.com/v2/resize:fit:640/0*Df4ES0n4Skq8B5LO.gif)
 
 Here it comes...
@@ -82,7 +88,8 @@ Here it comes...
 # 🚩 The Problem
 
 Lack of semantic structure using column header for list:
-```
+
+`
 
 <div class="content-ad"></div>
 
@@ -109,7 +116,9 @@ aria-label이 기존에 보이는 레이블이나 텍스트 내용을 중복하�
 ❌ 중복성의 예시:
 
 ```js
-<button aria-label="제출" role="button">제출</button>
+<button aria-label="제출" role="button">
+  제출
+</button>
 ```
 
 ✅ 올바른 사용법:

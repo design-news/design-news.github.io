@@ -3,13 +3,12 @@ title: "테크 토크 Siri, ChatGPT, 그리고 대화형 사용자 경험의 부
 description: ""
 coverImage: "/assets/img/2024-05-27-TalkingTechSiriChatGPTandtheRiseofConversationalUX_0.png"
 date: 2024-05-27 19:34
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-TalkingTechSiriChatGPTandtheRiseofConversationalUX_0.png
 tag: Tech
 originalTitle: "Talking Tech: Siri, ChatGPT, and the Rise of Conversational UX"
 link: "https://medium.com/@krishnazolpatil/talking-tech-siri-chatgpt-and-the-rise-of-conversational-ux-323c0747131f"
 ---
-
 
 상단의 텍스트를 친절하게 한국어로 번역해 드리겠습니다:
 
@@ -43,8 +42,6 @@ AI가 아직 인간과 같은 지혜를 갖지 않더라도, 대화형 UX는 사
 
 <div class="content-ad"></div>
 
-```markdown
 ![TalkingTech](/assets/img/2024-05-27-TalkingTechSiriChatGPTandtheRiseofConversationalUX_1.png)
 
 The question remains: Do we need machines that can mimic conversation, or do we need AI that can develop genuine wisdom? That’s a question that lingers as we explore the exciting world of Conversational UX.
-```

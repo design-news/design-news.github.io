@@ -3,13 +3,12 @@ title: "플러터 앱에서 Font Awesome 아이콘 사용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-05-27-HowtoUseFontAwesomeIconsinFlutterApp_0.png"
 date: 2024-05-27 19:40
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-HowtoUseFontAwesomeIconsinFlutterApp_0.png
 tag: Tech
 originalTitle: "How to Use Font Awesome Icons in Flutter App"
 link: "https://medium.com/@bhavesh.sachala/how-to-use-font-awesome-icons-in-flutter-app-1b07511a8b7a"
 ---
-
 
 파이썬과 HTML은 모두 프로그래밍 언어이지만, 최종 목적과 사용 방법이 다릅니다. 파이썬은 주로 소프트웨어 개발이나 데이터 분석과 같은 다양한 영역에서 사용되는 범용 프로그래밍 언어입니다. 반면에 HTML은 마크업 언어로, 웹 페이지의 구조와 콘텐츠를 정의하는 데 사용됩니다. 이 두 언어는 서로 보완적인 역할을 수행하여 인터넷과 웹 애플리케이션의 다양한 기능을 가능하게 합니다.
 
@@ -20,8 +19,8 @@ STEP 2:
 Font Awesome 아이콘을 사용하려는 Dart 파일에 다음 패키지를 가져옵니다.
 
 ```js
-import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import "package:flutter/material.dart";
+import "package:font_awesome_flutter/font_awesome_flutter.dart";
 ```
 
 STEP 3:
@@ -34,9 +33,9 @@ Font Awesome 아이콘을 사용하려면 Font Awesome 라이브러리에서 원
 
 ```javascript
 아이콘(
-  FontAwesomeIcons.thumbsUp,
+  FontAwesomeIcons.thumbsUp
   // 크기, 색상 등과 같은 추가 속성
-)
+);
 ```
 
 단계 4:
@@ -66,4 +65,3 @@ Container(
 ```
 
 여기까지에요! 이제 font_awesome_flutter 패키지를 사용하여 Flutter 앱에서 Font Awesome 아이콘을 사용할 수 있어요. 사용 가능한 아이콘 코드와 해당 의미에 대한 정보는 Font Awesome 문서나 라이브러리를 확인해 주세요.
-```

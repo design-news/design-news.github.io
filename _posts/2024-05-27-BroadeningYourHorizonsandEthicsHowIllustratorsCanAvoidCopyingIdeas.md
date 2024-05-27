@@ -3,15 +3,13 @@ title: "넓히는 당신의 시야와 윤리 일러스트레이터가 아이디�
 description: ""
 coverImage: "/assets/img/2024-05-27-BroadeningYourHorizonsandEthicsHowIllustratorsCanAvoidCopyingIdeas_0.png"
 date: 2024-05-27 19:47
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-BroadeningYourHorizonsandEthicsHowIllustratorsCanAvoidCopyingIdeas_0.png
 tag: Tech
 originalTitle: "Broadening Your Horizons and Ethics: How Illustrators Can Avoid Copying Ideas"
 link: "https://medium.com/@y.violett28/broadening-your-horizons-and-ethics-how-illustrators-can-avoid-copying-ideas-b981620a58d9"
 ---
 
-
-```markdown
 <img src="/assets/img/2024-05-27-BroadeningYourHorizonsandEthicsHowIllustratorsCanAvoidCopyingIdeas_0.png" />
 
 일러스트레이션 세계에서도 다른 창작 분야와 마찬가지로 독특한 스타일과 접근법을 발전시키는 것이 중요합니다. 그러나 특히 경력 초기에는 다른 사람의 아이디어를 흉내내기 쉬운 함정에 빠지기 쉽기 때문에 도전적일 수 있습니다. 이 기사에서는 시야를 넓히는 것이 왜 중요한지, 다른 사람의 작품을 창작 아이디어로 도용하지 않으면서 영감의 원천으로 활용하는 윤리적 방법에 대해 살펴보겠습니다.
@@ -20,17 +18,18 @@ link: "https://medium.com/@y.violett28/broadening-your-horizons-and-ethics-how-i
 
 시야를 넓히는 것의 정의
 시야를 넓힌다는 것은 다양한 시각적 이미지, 스타일, 기법을 볼 수 있고 흡수할 수 있는 능력을 말합니다. 이는 다른 예술가, 사진, 영화, 자연 및 기타 출처의 작품들을 익히는 것을 통해 지속적으로 시각적 경험을 확장하는 것을 포함합니다.
-```
 
 <div class="content-ad"></div>
 
 폭 넓히는 것의 장점
+
 1. 스타일 확장: 시야를 넓히면 예술에서 독특한 목소리를 찾을 수 있습니다. 더 많은 것을 볼수록 다양한 스타일과 기술을 시도하고 결합할 수 있습니다.
 2. 독특한 아이디어 생성: 풍부한 시각적 경험을 통해 새롭고 독특한 아이디어를 발전시킬 수 있습니다.
 3. 인식 오류 회피: 시야를 넓힘으로써 작업에서 진부함과 단조로움을 피할 수 있으며, 그림이 더 흥미로우고 다양해집니다.
 4. 세계관에 미치는 영향: 세계관이 세상을 인식하는 방식에 직접적인 영향을 미칩니다. 일러스트레이션을 만들 때, 삶과 세계에 대한 독특한 시각을 담을 수 있습니다.
 
 어떻게 시야를 넓힐까요?
+
 - 박물관, 전시회, 갤러리 방문: 다양한 작가들과 조각가의 작품을 관찰해보세요.
 - 다양한 예술 작품 탐험: 영화를 보거나, 애니메이션을 감상하거나, 만화를 읽거나, 사진을 감상해보세요.
 - 예술과 일러스트레이션 관련 서적과 기사 읽기: 유명 작가들과 디자이너들의 작품을 공부해보세요.
@@ -43,15 +42,18 @@ link: "https://medium.com/@y.violett28/broadening-your-horizons-and-ethics-how-i
 <div class="content-ad"></div>
 
 영객와 도약간의 차이 이해하기
+
 - 영객: 다른 예술가의 작품 요소를 사용하여 새롭고 독특한 작품을 만드는 과정입니다.
 - 도둑질: 다른 예술가의 작품을 직접 복사하되 어떠한 변형이나 수정도 가하지 않는 것을 의미합니다.
 
 아이디어 도난 문제점
+
 - 법적 결과: 아이디어 도난은 소송과 벌금을 유발할 수 있습니다.
 - 신뢰 상실: 고객과 동료들이 당신에게 대한 신뢰를 잃을 수 있으며, 이는 당신의 경력에 부정적인 영향을 줄 수 있습니다.
 - 명예 훼손: 다른 사람의 작품을 복사하는 사람으로 알려진 경우, 전문가로서의 명성은 훼손될 것입니다.
 
 아이디어 도난 피하기 방법
+
 - 다른 사람의 작품을 영감의 원천으로 활용하기: 항상 당신만의 요소를 추가하고 원본 아이디어를 변형하여 새로운 것을 만드세요.
 - 아이디어 수정 및 변형: 작품을 그대로 복사하지 말고, 당신만의 스타일로 재해석하세요.
 - 영감의 소스를 인정하기: 다른 작품이 당신의 작품에 영향을 미쳤다면 그 사실을 인정하는 것을 잊지 마세요. 예를 들어, “[예술가의 이름]의 작품에서 영감을 받음”과 같이 기재하세요.
@@ -62,6 +64,7 @@ link: "https://medium.com/@y.violett28/broadening-your-horizons-and-ethics-how-i
 <div class="content-ad"></div>
 
 추가 팁
+
 - 성공한 일러스트레이터 연구: 독특한 스타일과 윤리적인 작업 방식으로 유명한 일러스트레이터들의 작품을 연구해보세요. 예를 들어 하야오 미야자키나 키스 해링과 같은 사람들이 있습니다.
 - 스케치북을 가지고 다니세요: 다양한 스타일과 아이디어를 실험할 수 있는 개인 스케치북을 유지하세요. 이를 통해 독특한 목소리를 발견하는데 도움이 될 것입니다.
 - 계속해서 학습하세요: 강의, 워크샵, 세미나에 참여하세요. 계속적인 학습은 여러분의 기술을 향상시키고 시야를 넓히는 데 도움이 될 것입니다.

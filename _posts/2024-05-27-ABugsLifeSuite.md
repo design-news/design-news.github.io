@@ -3,13 +3,12 @@ title: "벌레들의 삶 스위트"
 description: ""
 coverImage: "/assets/img/2024-05-27-ABugsLifeSuite_0.png"
 date: 2024-05-27 19:43
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-ABugsLifeSuite_0.png
 tag: Tech
 originalTitle: "A Bug’s Life Suite"
 link: "https://medium.com/@hello.ok.books/a-bugs-life-suite-54554ed6f612"
 ---
-
 
 ![ABugsLifeSuite_0](/assets/img/2024-05-27-ABugsLifeSuite_0.png)
 
@@ -17,7 +16,7 @@ link: "https://medium.com/@hello.ok.books/a-bugs-life-suite-54554ed6f612"
 
 ![ABugsLifeSuite_2](/assets/img/2024-05-27-ABugsLifeSuite_2.png)
 
-프랑스 그래픽 디자인 학생들 대부분이 언젠가는 Velvetyne의 웹사이트를 발견합니다. *Velvetyne은 폰트 연구 및 창작에 초점을 맞춘 집단으로, 오픈하고 재미있는 도구 및 워크숍을 홍보하고 있습니다. 그들은 정치적이고 예술적인 폰트 세계를 지지하며, 다양한 저자들과 협력하여 오픈 라이선스 하에 폰트와 그래픽 오브젝트를 제작하고 공유합니다. 이 사이트에서 배포된 폰트들은 다채로운 스타일로, 사용하고 실험하는 데 재미를 느낄 수 있도록 해줍니다. 최근 다시 그들의 페이지를 살펴본 결과, 저희는 호기심을 자극한 개미 폰트를 발견했습니다. 이는 Cambre 대학의 타이포그래피 학생이었던 Laure Azizi가 만든 것이었습니다.
+프랑스 그래픽 디자인 학생들 대부분이 언젠가는 Velvetyne의 웹사이트를 발견합니다. \*Velvetyne은 폰트 연구 및 창작에 초점을 맞춘 집단으로, 오픈하고 재미있는 도구 및 워크숍을 홍보하고 있습니다. 그들은 정치적이고 예술적인 폰트 세계를 지지하며, 다양한 저자들과 협력하여 오픈 라이선스 하에 폰트와 그래픽 오브젝트를 제작하고 공유합니다. 이 사이트에서 배포된 폰트들은 다채로운 스타일로, 사용하고 실험하는 데 재미를 느낄 수 있도록 해줍니다. 최근 다시 그들의 페이지를 살펴본 결과, 저희는 호기심을 자극한 개미 폰트를 발견했습니다. 이는 Cambre 대학의 타이포그래피 학생이었던 Laure Azizi가 만든 것이었습니다.
 
 <div class="content-ad"></div>
 
@@ -91,13 +90,11 @@ link: "https://medium.com/@hello.ok.books/a-bugs-life-suite-54554ed6f612"
 
 <div class="content-ad"></div>
 
-```markdown
 ![A Bug's Life Suite](/assets/img/2024-05-27-ABugsLifeSuite_3.png)
 
 A Bug’s Life Suite — From “A Bug’s Life”, by Randy Newman
 
 ![Work by Rihanna & Drake](/assets/img/2024-05-27-ABugsLifeSuite_4.png)
-```
 
 <div class="content-ad"></div>
 
