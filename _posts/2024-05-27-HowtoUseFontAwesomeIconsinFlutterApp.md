@@ -50,7 +50,7 @@ Font Awesome 아이콘을 사용하려면 Font Awesome 라이브러리에서 원
 ```
 
 단계 5:
-아이콘 표시 아이콘을 표시하려면 단순히 아이콘 위젯을 원하는 앱 UI 계층구조의 부분에 포함하면 됩니다. 예를 들어, Container, Row, Column 또는 기타 Flutter 위젯 내에서 포함시킬 수 있습니다:```
+아이콘 표시 아이콘을 표시하려면 단순히 아이콘 위젯을 원하는 앱 UI 계층구조의 부분에 포함하면 됩니다. 예를 들어, Container, Row, Column 또는 기타 Flutter 위젯 내에서 포함시킬 수 있습니다:
 
 <div class="content-ad"></div>
 
